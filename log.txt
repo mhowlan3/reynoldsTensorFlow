@@ -1,0 +1,13 @@
+nohup: ignoring input
+[I 20:20:17.015 NotebookApp] [nb_conda_kernels] enabled, 2 kernels found
+[I 20:20:17.253 NotebookApp] The port 8888 is already in use, trying another port.
+[I 20:20:17.304 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 20:20:17.304 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 20:20:17.308 NotebookApp] [nb_conda] enabled
+[I 20:20:17.351 NotebookApp] [nb_anacondacloud] enabled
+[I 20:20:17.357 NotebookApp] Serving notebooks from local directory: /home/mhowland/Dropbox/Stanford/treeHacks/reynoldsTensorFlow
+[I 20:20:17.357 NotebookApp] 0 active kernels 
+[I 20:20:17.357 NotebookApp] The Jupyter Notebook is running at: http://localhost:8889/
+[I 20:20:17.357 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 20:25:03.582 NotebookApp] 302 GET / (::1) 1.46ms
+[I 20:25:34.558 NotebookApp] Kernel started: 33feedb0-b94f-4911-a4cd-c776248e76f2
