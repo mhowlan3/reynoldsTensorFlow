@@ -9,7 +9,7 @@ import tensorflow as tf
 from tensorflow.python.framework import ops
 import numpy as np
 from numpy import genfromtxt
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import os
 cwd = os.getcwd() # current working directory
 import utils
@@ -42,7 +42,7 @@ def importWindFile(basedir, windFile):
 
 
 ws, hour, time, nt, month = importWindFile(basedir, windFile)
-
+print('Data loaded')
 
 # In[4]:
 
@@ -412,7 +412,7 @@ def hyperparamSearch(X_train, Y_train, X_dev, Y_dev, X_test, Y_test, lr_rng, num
 
 # In[90]:
 
-
+print('Start sweep')
 learning_rate = 0.008#0.0005
 num_epochs = 25 # total number of epochs to iterate through
 print_interval = 1 # prints per epoch
