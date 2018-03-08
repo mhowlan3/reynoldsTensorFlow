@@ -1,0 +1,1254 @@
+Epoch 0 loss: 0.810872 
+Train error: 0.093113 
+Dev error: 0.091524 
+Epoch 1 loss: 0.810174 
+Train error: 0.093069 
+Dev error: 0.091668 
+Epoch 2 loss: 0.810970 
+Train error: 0.093080 
+Dev error: 0.091119 
+Epoch 3 loss: 0.809994 
+Train error: 0.093058 
+Dev error: 0.091381 
+Epoch 4 loss: 0.810882 
+Train error: 0.093062 
+Dev error: 0.092585 
+Epoch 5 loss: 0.811781 
+Train error: 0.093086 
+Dev error: 0.093354 
+Epoch 6 loss: 0.809142 
+Train error: 0.093061 
+Dev error: 0.091602 
+Epoch 7 loss: 0.810493 
+Train error: 0.093056 
+Dev error: 0.091490 
+Epoch 8 loss: 0.810873 
+Train error: 0.093059 
+Dev error: 0.092505 
+Epoch 0 loss: 2.489834 
+Train error: 0.288130 
+Dev error: 0.117068 
+Epoch 10 loss: 0.800782 
+Train error: 0.115345 
+Dev error: 0.094039 
+Epoch 20 loss: 0.762124 
+Train error: 0.104533 
+Dev error: 0.089674 
+Epoch 30 loss: 0.808589 
+Train error: 0.100431 
+Dev error: 0.088922 
+Epoch 40 loss: 0.745702 
+Train error: 0.097553 
+Dev error: 0.088715 
+Epoch 50 loss: 0.712355 
+Train error: 0.095333 
+Dev error: 0.083805 
+Epoch 60 loss: 0.697583 
+Train error: 0.093540 
+Dev error: 0.080667 
+Epoch 70 loss: 0.693019 
+Train error: 0.091959 
+Dev error: 0.078839 
+Epoch 80 loss: 0.669526 
+Train error: 0.090514 
+Dev error: 0.075022 
+Epoch 90 loss: 0.659573 
+Train error: 0.089207 
+Dev error: 0.074038 
+Epoch 100 loss: 0.638015 
+Train error: 0.087997 
+Dev error: 0.072824 
+Epoch 110 loss: 0.630990 
+Train error: 0.086846 
+Dev error: 0.071537 
+Epoch 120 loss: 0.621380 
+Train error: 0.085796 
+Dev error: 0.068723 
+Epoch 130 loss: 0.615005 
+Train error: 0.084816 
+Dev error: 0.067533 
+Epoch 140 loss: 0.609959 
+Train error: 0.083911 
+Dev error: 0.068013 
+Epoch 150 loss: 0.597714 
+Train error: 0.083092 
+Dev error: 0.066934 
+Epoch 160 loss: 0.585299 
+Train error: 0.082312 
+Dev error: 0.066532 
+Epoch 170 loss: 0.586499 
+Train error: 0.081552 
+Dev error: 0.065929 
+Epoch 180 loss: 0.578167 
+Train error: 0.080863 
+Dev error: 0.063407 
+Epoch 190 loss: 0.582588 
+Train error: 0.080213 
+Dev error: 0.066258 
+Epoch 200 loss: 0.583462 
+Train error: 0.079594 
+Dev error: 0.063049 
+Epoch 210 loss: 0.607051 
+Train error: 0.079034 
+Dev error: 0.063488 
+Epoch 220 loss: 0.559800 
+Train error: 0.078477 
+Dev error: 0.061528 
+Epoch 230 loss: 0.564191 
+Train error: 0.077954 
+Dev error: 0.061945 
+Epoch 240 loss: 0.563051 
+Train error: 0.077482 
+Dev error: 0.060577 
+Epoch 250 loss: 0.555381 
+Train error: 0.076998 
+Dev error: 0.060432 
+Epoch 260 loss: 0.543095 
+Train error: 0.076536 
+Dev error: 0.059728 
+Epoch 270 loss: 0.551505 
+Train error: 0.076095 
+Dev error: 0.059878 
+Epoch 280 loss: 0.541232 
+Train error: 0.075688 
+Dev error: 0.058826 
+Epoch 290 loss: 0.533587 
+Train error: 0.075274 
+Dev error: 0.059125 
+Epoch 300 loss: 0.535984 
+Train error: 0.074886 
+Dev error: 0.057823 
+Epoch 310 loss: 0.525263 
+Train error: 0.074514 
+Dev error: 0.058084 
+Epoch 320 loss: 0.529690 
+Train error: 0.074151 
+Dev error: 0.058461 
+Epoch 330 loss: 0.526546 
+Train error: 0.073812 
+Dev error: 0.057851 
+Epoch 340 loss: 0.529834 
+Train error: 0.073468 
+Dev error: 0.060434 
+Epoch 350 loss: 0.533466 
+Train error: 0.073165 
+Dev error: 0.057736 
+Epoch 360 loss: 0.517814 
+Train error: 0.072847 
+Dev error: 0.056066 
+Epoch 370 loss: 0.529994 
+Train error: 0.072554 
+Dev error: 0.057413 
+Epoch 380 loss: 0.520581 
+Train error: 0.072268 
+Dev error: 0.057465 
+Epoch 390 loss: 0.520776 
+Train error: 0.071988 
+Dev error: 0.056494 
+Epoch 400 loss: 0.516746 
+Train error: 0.071731 
+Dev error: 0.055710 
+Epoch 410 loss: 0.522737 
+Train error: 0.071461 
+Dev error: 0.056611 
+Epoch 420 loss: 0.513413 
+Train error: 0.071204 
+Dev error: 0.055423 
+Epoch 430 loss: 0.512313 
+Train error: 0.070952 
+Dev error: 0.057388 
+Epoch 440 loss: 0.510923 
+Train error: 0.070709 
+Dev error: 0.056208 
+Epoch 450 loss: 0.505490 
+Train error: 0.070465 
+Dev error: 0.057110 
+Epoch 460 loss: 0.505534 
+Train error: 0.070240 
+Dev error: 0.056721 
+Epoch 470 loss: 0.506443 
+Train error: 0.070021 
+Dev error: 0.055674 
+Epoch 480 loss: 0.507926 
+Train error: 0.069799 
+Dev error: 0.057208 
+Epoch 490 loss: 0.501282 
+Train error: 0.069588 
+Dev error: 0.055749 
+Epoch 500 loss: 0.513808 
+Train error: 0.069395 
+Dev error: 0.054911 
+Epoch 510 loss: 0.502070 
+Train error: 0.069185 
+Dev error: 0.056474 
+Epoch 520 loss: 0.495558 
+Train error: 0.068983 
+Dev error: 0.055230 
+Epoch 530 loss: 0.492673 
+Train error: 0.068785 
+Dev error: 0.053973 
+Epoch 540 loss: 0.495151 
+Train error: 0.068594 
+Dev error: 0.056474 
+Epoch 550 loss: 0.490527 
+Train error: 0.068402 
+Dev error: 0.053607 
+Epoch 560 loss: 0.499885 
+Train error: 0.068220 
+Dev error: 0.056052 
+Epoch 570 loss: 0.491631 
+Train error: 0.068039 
+Dev error: 0.053375 
+Epoch 580 loss: 0.484947 
+Train error: 0.067863 
+Dev error: 0.053560 
+Epoch 590 loss: 0.486151 
+Train error: 0.067696 
+Dev error: 0.056549 
+Epoch 600 loss: 0.491151 
+Train error: 0.067539 
+Dev error: 0.053589 
+Epoch 610 loss: 0.482704 
+Train error: 0.067373 
+Dev error: 0.054518 
+Epoch 620 loss: 0.486040 
+Train error: 0.067211 
+Dev error: 0.052928 
+Epoch 630 loss: 0.486598 
+Train error: 0.067057 
+Dev error: 0.054015 
+Epoch 640 loss: 0.475146 
+Train error: 0.066903 
+Dev error: 0.052765 
+Epoch 650 loss: 0.485830 
+Train error: 0.066751 
+Dev error: 0.053346 
+Epoch 660 loss: 0.479111 
+Train error: 0.066600 
+Dev error: 0.051996 
+Epoch 670 loss: 0.479068 
+Train error: 0.066461 
+Dev error: 0.052205 
+Epoch 680 loss: 0.484422 
+Train error: 0.066317 
+Dev error: 0.052691 
+Epoch 690 loss: 0.486367 
+Train error: 0.066179 
+Dev error: 0.053855 
+Epoch 700 loss: 0.470657 
+Train error: 0.066041 
+Dev error: 0.052394 
+Epoch 710 loss: 0.476884 
+Train error: 0.065905 
+Dev error: 0.052368 
+Epoch 720 loss: 0.481342 
+Train error: 0.065774 
+Dev error: 0.052622 
+Epoch 730 loss: 0.480838 
+Train error: 0.065646 
+Dev error: 0.051947 
+Epoch 740 loss: 0.479318 
+Train error: 0.065525 
+Dev error: 0.053704 
+Epoch 750 loss: 0.473051 
+Train error: 0.065401 
+Dev error: 0.052681 
+Epoch 760 loss: 0.479146 
+Train error: 0.065278 
+Dev error: 0.051566 
+Epoch 770 loss: 0.466285 
+Train error: 0.065152 
+Dev error: 0.052066 
+Epoch 780 loss: 0.468885 
+Train error: 0.065030 
+Dev error: 0.051387 
+Epoch 790 loss: 0.469501 
+Train error: 0.064919 
+Dev error: 0.051219 
+Epoch 800 loss: 0.467592 
+Train error: 0.064808 
+Dev error: 0.051476 
+Epoch 810 loss: 0.471746 
+Train error: 0.064688 
+Dev error: 0.052880 
+Epoch 820 loss: 0.465079 
+Train error: 0.064573 
+Dev error: 0.051793 
+Epoch 830 loss: 0.466862 
+Train error: 0.064459 
+Dev error: 0.051144 
+Epoch 840 loss: 0.462610 
+Train error: 0.064348 
+Dev error: 0.051307 
+Epoch 850 loss: 0.464712 
+Train error: 0.064247 
+Dev error: 0.053026 
+Epoch 860 loss: 0.467571 
+Train error: 0.064143 
+Dev error: 0.050355 
+Epoch 870 loss: 0.459311 
+Train error: 0.064039 
+Dev error: 0.051623 
+Epoch 880 loss: 0.459371 
+Train error: 0.063938 
+Dev error: 0.050023 
+Epoch 890 loss: 0.462619 
+Train error: 0.063835 
+Dev error: 0.050356 
+Epoch 900 loss: 0.459665 
+Train error: 0.063734 
+Dev error: 0.051905 
+Epoch 910 loss: 0.457775 
+Train error: 0.063627 
+Dev error: 0.050047 
+Epoch 920 loss: 0.468639 
+Train error: 0.063527 
+Dev error: 0.051757 
+Epoch 930 loss: 0.475384 
+Train error: 0.063435 
+Dev error: 0.051207 
+Epoch 940 loss: 0.460333 
+Train error: 0.063344 
+Dev error: 0.049323 
+Epoch 950 loss: 0.462118 
+Train error: 0.063262 
+Dev error: 0.050714 
+Epoch 960 loss: 0.464807 
+Train error: 0.063169 
+Dev error: 0.050631 
+Epoch 970 loss: 0.456098 
+Train error: 0.063077 
+Dev error: 0.050430 
+Epoch 980 loss: 0.472117 
+Train error: 0.062987 
+Dev error: 0.052108 
+Epoch 990 loss: 0.460075 
+Train error: 0.062895 
+Dev error: 0.050308 
+Epoch 1000 loss: 0.465269 
+Train error: 0.062810 
+Dev error: 0.051094 
+Epoch 0 loss: 0.455067 
+Train error: 0.053825 
+Dev error: 0.050121 
+Epoch 10 loss: 0.463091 
+Train error: 0.054331 
+Dev error: 0.050515 
+Epoch 20 loss: 0.452422 
+Train error: 0.054279 
+Dev error: 0.051903 
+Epoch 30 loss: 0.456681 
+Train error: 0.054097 
+Dev error: 0.051500 
+Epoch 40 loss: 0.458355 
+Train error: 0.053990 
+Dev error: 0.050828 
+Epoch 50 loss: 0.453083 
+Train error: 0.053859 
+Dev error: 0.050115 
+Epoch 60 loss: 0.471550 
+Train error: 0.053912 
+Dev error: 0.051478 
+Epoch 70 loss: 0.447015 
+Train error: 0.053903 
+Dev error: 0.048801 
+Epoch 80 loss: 0.442779 
+Train error: 0.053806 
+Dev error: 0.049814 
+Epoch 90 loss: 0.449642 
+Train error: 0.053711 
+Dev error: 0.050850 
+Epoch 100 loss: 0.450830 
+Train error: 0.053654 
+Dev error: 0.048317 
+Epoch 110 loss: 0.456258 
+Train error: 0.053618 
+Dev error: 0.050332 
+Epoch 120 loss: 0.467165 
+Train error: 0.053651 
+Dev error: 0.050159 
+Epoch 130 loss: 0.448037 
+Train error: 0.053600 
+Dev error: 0.048101 
+Epoch 140 loss: 0.447578 
+Train error: 0.053568 
+Dev error: 0.051179 
+Epoch 150 loss: 0.446582 
+Train error: 0.053515 
+Dev error: 0.049579 
+Epoch 160 loss: 0.448522 
+Train error: 0.053492 
+Dev error: 0.049832 
+Epoch 170 loss: 0.444045 
+Train error: 0.053481 
+Dev error: 0.049260 
+Epoch 180 loss: 0.447217 
+Train error: 0.053453 
+Dev error: 0.049850 
+Epoch 190 loss: 0.454842 
+Train error: 0.053451 
+Dev error: 0.051413 
+Epoch 200 loss: 0.446696 
+Train error: 0.053437 
+Dev error: 0.048231 
+Epoch 210 loss: 0.454521 
+Train error: 0.053469 
+Dev error: 0.051202 
+Epoch 220 loss: 0.452916 
+Train error: 0.053509 
+Dev error: 0.048286 
+Epoch 230 loss: 0.438377 
+Train error: 0.053451 
+Dev error: 0.048964 
+Epoch 240 loss: 0.442629 
+Train error: 0.053423 
+Dev error: 0.048411 
+Epoch 250 loss: 0.453441 
+Train error: 0.053377 
+Dev error: 0.048940 
+Epoch 260 loss: 0.440515 
+Train error: 0.053358 
+Dev error: 0.047797 
+Epoch 270 loss: 0.449476 
+Train error: 0.053362 
+Dev error: 0.049241 
+Epoch 280 loss: 0.440703 
+Train error: 0.053328 
+Dev error: 0.048572 
+Epoch 290 loss: 0.441478 
+Train error: 0.053310 
+Dev error: 0.047820 
+Epoch 300 loss: 0.436535 
+Train error: 0.053285 
+Dev error: 0.050446 
+Epoch 310 loss: 0.436120 
+Train error: 0.053252 
+Dev error: 0.049152 
+Epoch 320 loss: 0.441896 
+Train error: 0.053214 
+Dev error: 0.048496 
+Epoch 330 loss: 0.440913 
+Train error: 0.053192 
+Dev error: 0.047741 
+Epoch 340 loss: 0.445928 
+Train error: 0.053171 
+Dev error: 0.048418 
+Epoch 350 loss: 0.444500 
+Train error: 0.053146 
+Dev error: 0.050414 
+Epoch 360 loss: 0.444771 
+Train error: 0.053122 
+Dev error: 0.049413 
+Epoch 370 loss: 0.450111 
+Train error: 0.053102 
+Dev error: 0.049496 
+Epoch 380 loss: 0.435981 
+Train error: 0.053082 
+Dev error: 0.048635 
+Epoch 390 loss: 0.446595 
+Train error: 0.053061 
+Dev error: 0.049685 
+Epoch 400 loss: 0.445306 
+Train error: 0.053064 
+Dev error: 0.048587 
+Epoch 410 loss: 0.434569 
+Train error: 0.053052 
+Dev error: 0.047995 
+Epoch 420 loss: 0.439020 
+Train error: 0.053013 
+Dev error: 0.048151 
+Epoch 430 loss: 0.456561 
+Train error: 0.053020 
+Dev error: 0.051455 
+Epoch 440 loss: 0.435136 
+Train error: 0.053012 
+Dev error: 0.049303 
+Epoch 450 loss: 0.470579 
+Train error: 0.053003 
+Dev error: 0.056784 
+Epoch 460 loss: 0.435860 
+Train error: 0.053006 
+Dev error: 0.050990 
+Epoch 470 loss: 0.473467 
+Train error: 0.053002 
+Dev error: 0.052080 
+Epoch 480 loss: 0.451575 
+Train error: 0.053062 
+Dev error: 0.050895 
+Epoch 490 loss: 0.440685 
+Train error: 0.053060 
+Dev error: 0.048470 
+Epoch 500 loss: 0.457234 
+Train error: 0.053047 
+Dev error: 0.052085 
+Epoch 510 loss: 0.447161 
+Train error: 0.053056 
+Dev error: 0.050729 
+Epoch 520 loss: 0.436168 
+Train error: 0.053058 
+Dev error: 0.048000 
+Epoch 530 loss: 0.435332 
+Train error: 0.053034 
+Dev error: 0.049242 
+Epoch 540 loss: 0.431923 
+Train error: 0.053015 
+Dev error: 0.047771 
+Epoch 550 loss: 0.442405 
+Train error: 0.052986 
+Dev error: 0.049569 
+Epoch 560 loss: 0.449981 
+Train error: 0.052976 
+Dev error: 0.053867 
+Epoch 570 loss: 0.425167 
+Train error: 0.052960 
+Dev error: 0.047656 
+Epoch 580 loss: 0.429322 
+Train error: 0.052942 
+Dev error: 0.047816 
+Epoch 590 loss: 0.428055 
+Train error: 0.052933 
+Dev error: 0.047917 
+Epoch 600 loss: 0.424213 
+Train error: 0.052908 
+Dev error: 0.047584 
+Epoch 610 loss: 0.439109 
+Train error: 0.052905 
+Dev error: 0.048952 
+Epoch 620 loss: 0.435705 
+Train error: 0.052886 
+Dev error: 0.049538 
+Epoch 630 loss: 0.432380 
+Train error: 0.052892 
+Dev error: 0.047841 
+Epoch 640 loss: 0.441738 
+Train error: 0.052884 
+Dev error: 0.049796 
+Epoch 650 loss: 0.432009 
+Train error: 0.052857 
+Dev error: 0.048102 
+Epoch 660 loss: 0.430091 
+Train error: 0.052844 
+Dev error: 0.047319 
+Epoch 670 loss: 0.437722 
+Train error: 0.052828 
+Dev error: 0.047608 
+Epoch 680 loss: 0.510981 
+Train error: 0.052871 
+Dev error: 0.057231 
+Epoch 690 loss: 0.469987 
+Train error: 0.052906 
+Dev error: 0.049355 
+Epoch 700 loss: 0.435453 
+Train error: 0.052913 
+Dev error: 0.047783 
+Epoch 710 loss: 0.423540 
+Train error: 0.052903 
+Dev error: 0.047847 
+Epoch 720 loss: 0.438331 
+Train error: 0.052908 
+Dev error: 0.047606 
+Epoch 730 loss: 0.454575 
+Train error: 0.052890 
+Dev error: 0.051583 
+Epoch 740 loss: 0.477918 
+Train error: 0.052872 
+Dev error: 0.052101 
+Epoch 750 loss: 0.430830 
+Train error: 0.052854 
+Dev error: 0.047220 
+Epoch 760 loss: 0.427771 
+Train error: 0.052820 
+Dev error: 0.046134 
+Epoch 770 loss: 0.434585 
+Train error: 0.052796 
+Dev error: 0.050239 
+Epoch 780 loss: 0.428221 
+Train error: 0.052766 
+Dev error: 0.047162 
+Epoch 790 loss: 0.417761 
+Train error: 0.052737 
+Dev error: 0.046810 
+Epoch 800 loss: 0.426571 
+Train error: 0.052718 
+Dev error: 0.048004 
+Epoch 810 loss: 0.429743 
+Train error: 0.052726 
+Dev error: 0.047943 
+Epoch 820 loss: 0.426220 
+Train error: 0.052696 
+Dev error: 0.047323 
+Epoch 830 loss: 0.440099 
+Train error: 0.052685 
+Dev error: 0.047858 
+Epoch 840 loss: 0.457142 
+Train error: 0.052672 
+Dev error: 0.050686 
+Epoch 850 loss: 0.424564 
+Train error: 0.052652 
+Dev error: 0.048424 
+Epoch 860 loss: 0.427264 
+Train error: 0.052629 
+Dev error: 0.046688 
+Epoch 870 loss: 0.428178 
+Train error: 0.052614 
+Dev error: 0.048346 
+Epoch 880 loss: 0.429073 
+Train error: 0.052612 
+Dev error: 0.048207 
+Epoch 890 loss: 0.437722 
+Train error: 0.052627 
+Dev error: 0.048523 
+Epoch 900 loss: 0.437467 
+Train error: 0.052635 
+Dev error: 0.050045 
+Epoch 910 loss: 0.464188 
+Train error: 0.052648 
+Dev error: 0.051709 
+Epoch 920 loss: 0.447511 
+Train error: 0.052693 
+Dev error: 0.048779 
+Epoch 930 loss: 0.442840 
+Train error: 0.052691 
+Dev error: 0.047466 
+Epoch 940 loss: 0.496226 
+Train error: 0.052734 
+Dev error: 0.059368 
+Epoch 950 loss: 0.466971 
+Train error: 0.052780 
+Dev error: 0.052244 
+Epoch 960 loss: 0.453791 
+Train error: 0.052807 
+Dev error: 0.050951 
+Epoch 970 loss: 0.518490 
+Train error: 0.052873 
+Dev error: 0.062566 
+Epoch 980 loss: 0.469498 
+Train error: 0.052921 
+Dev error: 0.052327 
+Epoch 990 loss: 0.490040 
+Train error: 0.052958 
+Dev error: 0.056055 
+Epoch 1000 loss: 0.491037 
+Train error: 0.052988 
+Dev error: 0.055941 
+Epoch 0 loss: 0.499508 
+Train error: 0.059577 
+Dev error: 0.054626 
+Epoch 10 loss: 0.468465 
+Train error: 0.055413 
+Dev error: 0.052603 
+Epoch 20 loss: 0.430733 
+Train error: 0.053918 
+Dev error: 0.047687 
+Epoch 30 loss: 0.443021 
+Train error: 0.053796 
+Dev error: 0.049631 
+Epoch 40 loss: 0.455384 
+Train error: 0.053825 
+Dev error: 0.057458 
+Epoch 50 loss: 0.440054 
+Train error: 0.054242 
+Dev error: 0.049204 
+Epoch 0 loss: 0.420510 
+Train error: 0.051057 
+Dev error: 0.048218 
+Epoch 10 loss: 0.390493 
+Train error: 0.048580 
+Dev error: 0.045306 
+Epoch 20 loss: 0.379493 
+Train error: 0.047637 
+Dev error: 0.043547 
+Epoch 30 loss: 0.376640 
+Train error: 0.047035 
+Dev error: 0.043174 
+Epoch 40 loss: 0.370438 
+Train error: 0.046603 
+Dev error: 0.042560 
+Epoch 50 loss: 0.367481 
+Train error: 0.046231 
+Dev error: 0.042361 
+Epoch 60 loss: 0.363926 
+Train error: 0.045905 
+Dev error: 0.041713 
+Epoch 70 loss: 0.361885 
+Train error: 0.045636 
+Dev error: 0.041359 
+Epoch 80 loss: 0.358789 
+Train error: 0.045393 
+Dev error: 0.040813 
+Epoch 90 loss: 0.359339 
+Train error: 0.045187 
+Dev error: 0.040742 
+Epoch 100 loss: 0.354899 
+Train error: 0.044991 
+Dev error: 0.040380 
+Epoch 110 loss: 0.355012 
+Train error: 0.044833 
+Dev error: 0.040446 
+Epoch 120 loss: 0.353467 
+Train error: 0.044674 
+Dev error: 0.040029 
+Epoch 130 loss: 0.350891 
+Train error: 0.044526 
+Dev error: 0.039840 
+Epoch 140 loss: 0.349894 
+Train error: 0.044385 
+Dev error: 0.039780 
+Epoch 150 loss: 0.349439 
+Train error: 0.044263 
+Dev error: 0.039778 
+Epoch 160 loss: 0.349072 
+Train error: 0.044151 
+Dev error: 0.039413 
+Epoch 170 loss: 0.347811 
+Train error: 0.044039 
+Dev error: 0.039511 
+Epoch 180 loss: 0.346355 
+Train error: 0.043942 
+Dev error: 0.039259 
+Epoch 190 loss: 0.346566 
+Train error: 0.043848 
+Dev error: 0.039497 
+Epoch 200 loss: 0.344527 
+Train error: 0.043751 
+Dev error: 0.038956 
+Epoch 210 loss: 0.346581 
+Train error: 0.043662 
+Dev error: 0.039121 
+Epoch 220 loss: 0.344415 
+Train error: 0.043582 
+Dev error: 0.039080 
+Epoch 230 loss: 0.344464 
+Train error: 0.043500 
+Dev error: 0.038733 
+Epoch 240 loss: 0.343105 
+Train error: 0.043424 
+Dev error: 0.038592 
+Epoch 250 loss: 0.343831 
+Train error: 0.043355 
+Dev error: 0.038504 
+Epoch 260 loss: 0.347030 
+Train error: 0.043287 
+Dev error: 0.039278 
+Epoch 270 loss: 0.341674 
+Train error: 0.043221 
+Dev error: 0.038660 
+Epoch 280 loss: 0.340328 
+Train error: 0.043155 
+Dev error: 0.038342 
+Epoch 290 loss: 0.340375 
+Train error: 0.043094 
+Dev error: 0.038489 
+Epoch 300 loss: 0.340256 
+Train error: 0.043033 
+Dev error: 0.038350 
+Epoch 310 loss: 0.338950 
+Train error: 0.042973 
+Dev error: 0.038232 
+Epoch 320 loss: 0.338999 
+Train error: 0.042917 
+Dev error: 0.038234 
+Epoch 330 loss: 0.338457 
+Train error: 0.042859 
+Dev error: 0.038087 
+Epoch 340 loss: 0.338914 
+Train error: 0.042811 
+Dev error: 0.038327 
+Epoch 350 loss: 0.338847 
+Train error: 0.042759 
+Dev error: 0.038171 
+Epoch 360 loss: 0.338336 
+Train error: 0.042713 
+Dev error: 0.038261 
+Epoch 370 loss: 0.337014 
+Train error: 0.042670 
+Dev error: 0.037979 
+Epoch 380 loss: 0.338238 
+Train error: 0.042624 
+Dev error: 0.037949 
+Epoch 390 loss: 0.336193 
+Train error: 0.042579 
+Dev error: 0.038076 
+Epoch 400 loss: 0.336634 
+Train error: 0.042534 
+Dev error: 0.038021 
+Epoch 410 loss: 0.336404 
+Train error: 0.042493 
+Dev error: 0.037807 
+Epoch 420 loss: 0.335673 
+Train error: 0.042451 
+Dev error: 0.037771 
+Epoch 430 loss: 0.336467 
+Train error: 0.042411 
+Dev error: 0.037672 
+Epoch 440 loss: 0.335492 
+Train error: 0.042374 
+Dev error: 0.037762 
+Epoch 450 loss: 0.334873 
+Train error: 0.042338 
+Dev error: 0.037734 
+Epoch 0 loss: 0.332448 
+Train error: 0.040486 
+Dev error: 0.037479 
+Epoch 10 loss: 0.327322 
+Train error: 0.040042 
+Dev error: 0.036993 
+Epoch 20 loss: 0.326607 
+Train error: 0.039926 
+Dev error: 0.036912 
+Epoch 30 loss: 0.326135 
+Train error: 0.039864 
+Dev error: 0.036862 
+Epoch 40 loss: 0.325826 
+Train error: 0.039823 
+Dev error: 0.036833 
+Epoch 50 loss: 0.325621 
+Train error: 0.039792 
+Dev error: 0.036810 
+Epoch 60 loss: 0.325416 
+Train error: 0.039768 
+Dev error: 0.036799 
+Epoch 70 loss: 0.325431 
+Train error: 0.039748 
+Dev error: 0.036793 
+Epoch 80 loss: 0.325422 
+Train error: 0.039732 
+Dev error: 0.036772 
+Epoch 90 loss: 0.325093 
+Train error: 0.039718 
+Dev error: 0.036754 
+Epoch 100 loss: 0.324988 
+Train error: 0.039705 
+Dev error: 0.036747 
+Epoch 110 loss: 0.324833 
+Train error: 0.039693 
+Dev error: 0.036749 
+Epoch 120 loss: 0.324807 
+Train error: 0.039683 
+Dev error: 0.036709 
+Epoch 130 loss: 0.324669 
+Train error: 0.039673 
+Dev error: 0.036708 
+Epoch 140 loss: 0.324777 
+Train error: 0.039664 
+Dev error: 0.036706 
+Epoch 150 loss: 0.324629 
+Train error: 0.039656 
+Dev error: 0.036695 
+Epoch 160 loss: 0.324552 
+Train error: 0.039648 
+Dev error: 0.036681 
+Epoch 170 loss: 0.324455 
+Train error: 0.039640 
+Dev error: 0.036672 
+Epoch 0 loss: 0.324495 
+Train error: 0.039519 
+Dev error: 0.036688 
+Epoch 10 loss: 0.324433 
+Train error: 0.039512 
+Dev error: 0.036751 
+Epoch 20 loss: 0.324318 
+Train error: 0.039507 
+Dev error: 0.036700 
+Epoch 30 loss: 0.324254 
+Train error: 0.039503 
+Dev error: 0.036718 
+Epoch 40 loss: 0.324228 
+Train error: 0.039500 
+Dev error: 0.036703 
+Epoch 0 loss: 0.324184 
+Train error: 0.039481 
+Dev error: 0.036670 
+Epoch 1 loss: 0.324085 
+Train error: 0.039476 
+Dev error: 0.036713 
+Epoch 2 loss: 0.324074 
+Train error: 0.039474 
+Dev error: 0.036686 
+Epoch 3 loss: 0.324080 
+Train error: 0.039473 
+Dev error: 0.036680 
+Epoch 4 loss: 0.324045 
+Train error: 0.039471 
+Dev error: 0.036663 
+Epoch 5 loss: 0.324095 
+Train error: 0.039471 
+Dev error: 0.036717 
+Epoch 6 loss: 0.324136 
+Train error: 0.039472 
+Dev error: 0.036685 
+Epoch 7 loss: 0.324113 
+Train error: 0.039472 
+Dev error: 0.036684 
+Epoch 8 loss: 0.324147 
+Train error: 0.039472 
+Dev error: 0.036691 
+Epoch 9 loss: 0.324300 
+Train error: 0.039474 
+Dev error: 0.036665 
+Epoch 10 loss: 0.324036 
+Train error: 0.039474 
+Dev error: 0.036697 
+Epoch 0 loss: 0.324184 
+Train error: 0.039481 
+Dev error: 0.036670 
+Epoch 1 loss: 0.324085 
+Train error: 0.039476 
+Dev error: 0.036713 
+Epoch 2 loss: 0.324074 
+Train error: 0.039474 
+Dev error: 0.036686 
+Epoch 3 loss: 0.324080 
+Train error: 0.039473 
+Dev error: 0.036680 
+Epoch 4 loss: 0.324045 
+Train error: 0.039471 
+Dev error: 0.036664 
+Epoch 5 loss: 0.324151 
+Train error: 0.039472 
+Dev error: 0.036707 
+Epoch 6 loss: 0.324168 
+Train error: 0.039473 
+Dev error: 0.036684 
+Epoch 7 loss: 0.324071 
+Train error: 0.039473 
+Dev error: 0.036678 
+Epoch 8 loss: 0.324105 
+Train error: 0.039472 
+Dev error: 0.036693 
+Epoch 9 loss: 0.324261 
+Train error: 0.039474 
+Dev error: 0.036668 
+Epoch 10 loss: 0.324066 
+Train error: 0.039474 
+Dev error: 0.036711 
+Epoch 0 loss: 0.324184 
+Train error: 0.039481 
+Dev error: 0.036670 
+Epoch 1 loss: 0.324085 
+Train error: 0.039476 
+Dev error: 0.036713 
+Epoch 2 loss: 0.324074 
+Train error: 0.039474 
+Dev error: 0.036686 
+Epoch 3 loss: 0.324080 
+Train error: 0.039473 
+Dev error: 0.036680 
+Epoch 4 loss: 0.324045 
+Train error: 0.039471 
+Dev error: 0.036664 
+Epoch 5 loss: 0.324151 
+Train error: 0.039472 
+Dev error: 0.036707 
+Epoch 6 loss: 0.324168 
+Train error: 0.039473 
+Dev error: 0.036684 
+Epoch 7 loss: 0.324071 
+Train error: 0.039473 
+Dev error: 0.036678 
+Epoch 8 loss: 0.324105 
+Train error: 0.039472 
+Dev error: 0.036693 
+Epoch 9 loss: 0.324261 
+Train error: 0.039474 
+Dev error: 0.036668 
+Epoch 10 loss: 0.324066 
+Train error: 0.039474 
+Dev error: 0.036711 
+Epoch 0 loss: 0.324184 
+Train error: 0.039481 
+Dev error: 0.036670 
+Epoch 1 loss: 0.324085 
+Train error: 0.039476 
+Dev error: 0.036713 
+Epoch 2 loss: 0.324074 
+Train error: 0.039474 
+Dev error: 0.036686 
+Epoch 3 loss: 0.324080 
+Train error: 0.039473 
+Dev error: 0.036680 
+Epoch 4 loss: 0.324045 
+Train error: 0.039471 
+Dev error: 0.036663 
+Epoch 5 loss: 0.324095 
+Train error: 0.039471 
+Dev error: 0.036717 
+Epoch 6 loss: 0.324136 
+Train error: 0.039472 
+Dev error: 0.036685 
+Epoch 7 loss: 0.324113 
+Train error: 0.039472 
+Dev error: 0.036684 
+Epoch 8 loss: 0.324147 
+Train error: 0.039472 
+Dev error: 0.036691 
+Epoch 9 loss: 0.324300 
+Train error: 0.039474 
+Dev error: 0.036665 
+Epoch 10 loss: 0.324035 
+Train error: 0.039473 
+Dev error: 0.036704 
+Epoch 0 loss: 0.324184 
+Train error: 0.039481 
+Dev error: 0.036670 
+Epoch 1 loss: 0.324085 
+Train error: 0.039476 
+Dev error: 0.036713 
+Epoch 2 loss: 0.324074 
+Train error: 0.039474 
+Dev error: 0.036686 
+Epoch 3 loss: 0.324080 
+Train error: 0.039473 
+Dev error: 0.036680 
+Epoch 4 loss: 0.324045 
+Train error: 0.039471 
+Dev error: 0.036664 
+Epoch 5 loss: 0.324151 
+Train error: 0.039472 
+Dev error: 0.036707 
+Epoch 6 loss: 0.324168 
+Train error: 0.039473 
+Dev error: 0.036684 
+Epoch 7 loss: 0.324071 
+Train error: 0.039473 
+Dev error: 0.036678 
+Epoch 8 loss: 0.324105 
+Train error: 0.039472 
+Dev error: 0.036693 
+Epoch 9 loss: 0.324261 
+Train error: 0.039474 
+Dev error: 0.036668 
+Epoch 10 loss: 0.324066 
+Train error: 0.039474 
+Dev error: 0.036711 
+Epoch 0 loss: 0.324184 
+Train error: 0.039481 
+Dev error: 0.036670 
+Epoch 1 loss: 0.324085 
+Train error: 0.039476 
+Dev error: 0.036713 
+Epoch 2 loss: 0.324074 
+Train error: 0.039474 
+Dev error: 0.036686 
+Epoch 3 loss: 0.324080 
+Train error: 0.039473 
+Dev error: 0.036680 
+Epoch 4 loss: 0.324045 
+Train error: 0.039471 
+Dev error: 0.036663 
+Epoch 5 loss: 0.324095 
+Train error: 0.039471 
+Dev error: 0.036717 
+Epoch 6 loss: 0.324136 
+Train error: 0.039472 
+Dev error: 0.036685 
+Epoch 7 loss: 0.324113 
+Train error: 0.039472 
+Dev error: 0.036684 
+Epoch 8 loss: 0.324147 
+Train error: 0.039472 
+Dev error: 0.036691 
+Epoch 9 loss: 0.324300 
+Train error: 0.039474 
+Dev error: 0.036665 
+Epoch 10 loss: 0.324036 
+Train error: 0.039474 
+Dev error: 0.036697 
+Epoch 0 loss: 0.324184 
+Train error: 0.039481 
+Dev error: 0.036670 
+Epoch 1 loss: 0.324085 
+Train error: 0.039476 
+Dev error: 0.036713 
+Epoch 2 loss: 0.324074 
+Train error: 0.039474 
+Dev error: 0.036686 
+Epoch 3 loss: 0.324080 
+Train error: 0.039473 
+Dev error: 0.036680 
+Epoch 4 loss: 0.324045 
+Train error: 0.039471 
+Dev error: 0.036663 
+Epoch 5 loss: 0.324095 
+Train error: 0.039471 
+Dev error: 0.036717 
+Epoch 6 loss: 0.324136 
+Train error: 0.039472 
+Dev error: 0.036685 
+Epoch 7 loss: 0.324113 
+Train error: 0.039472 
+Dev error: 0.036684 
+Epoch 8 loss: 0.324147 
+Train error: 0.039472 
+Dev error: 0.036691 
+Epoch 9 loss: 0.324300 
+Train error: 0.039474 
+Dev error: 0.036665 
+Epoch 10 loss: 0.324036 
+Train error: 0.039474 
+Dev error: 0.036697 
+Epoch 0 loss: 0.324184 
+Train error: 0.039481 
+Dev error: 0.125271 
+Epoch 1 loss: 0.324085 
+Train error: 0.039476 
+Dev error: 0.125275 
+Epoch 2 loss: 0.324074 
+Train error: 0.039474 
+Dev error: 0.125250 
+Epoch 3 loss: 0.324080 
+Train error: 0.039473 
+Dev error: 0.125266 
+Epoch 4 loss: 0.324045 
+Train error: 0.039471 
+Dev error: 0.125272 
+Epoch 5 loss: 0.324095 
+Train error: 0.039471 
+Dev error: 0.125251 
+Epoch 6 loss: 0.324136 
+Train error: 0.039472 
+Dev error: 0.125248 
+Epoch 7 loss: 0.324113 
+Train error: 0.039472 
+Dev error: 0.125289 
+Epoch 8 loss: 0.324147 
+Train error: 0.039472 
+Dev error: 0.125265 
+Epoch 9 loss: 0.324300 
+Train error: 0.039474 
+Dev error: 0.125261 
+Epoch 10 loss: 0.324036 
+Train error: 0.039474 
+Dev error: 0.125327 
+Epoch 0 loss: 0.324184 
+Train error: 0.039481 
+Dev error: 0.116710 
+Epoch 1 loss: 0.324085 
+Train error: 0.039476 
+Dev error: 0.116719 
+Epoch 2 loss: 0.324074 
+Train error: 0.039474 
+Dev error: 0.116699 
+Epoch 3 loss: 0.324080 
+Train error: 0.039473 
+Dev error: 0.116709 
+Epoch 4 loss: 0.324045 
+Train error: 0.039471 
+Dev error: 0.116739 
+Epoch 5 loss: 0.324095 
+Train error: 0.039471 
+Dev error: 0.116728 
+Epoch 6 loss: 0.324136 
+Train error: 0.039472 
+Dev error: 0.116718 
+Epoch 7 loss: 0.324113 
+Train error: 0.039472 
+Dev error: 0.116710 
+Epoch 8 loss: 0.324147 
+Train error: 0.039472 
+Dev error: 0.116734 
+Epoch 9 loss: 0.324300 
+Train error: 0.039474 
+Dev error: 0.116738 
+Epoch 10 loss: 0.324035 
+Train error: 0.039473 
+Dev error: 0.116725 
+Epoch 0 loss: 0.324184 
+Train error: 0.039481 
+Dev error: 0.036670 
+Epoch 1 loss: 0.324085 
+Train error: 0.039476 
+Dev error: 0.036713 
+Epoch 2 loss: 0.324074 
+Train error: 0.039474 
+Dev error: 0.036686 
+Epoch 3 loss: 0.324080 
+Train error: 0.039473 
+Dev error: 0.036680 
+Epoch 4 loss: 0.324045 
+Train error: 0.039471 
+Dev error: 0.036663 
+Epoch 5 loss: 0.324095 
+Train error: 0.039471 
+Dev error: 0.036717 
+Epoch 6 loss: 0.324136 
+Train error: 0.039472 
+Dev error: 0.036685 
+Epoch 7 loss: 0.324113 
+Train error: 0.039472 
+Dev error: 0.036684 
+Epoch 8 loss: 0.324147 
+Train error: 0.039472 
+Dev error: 0.036691 
+Epoch 9 loss: 0.324300 
+Train error: 0.039474 
+Dev error: 0.036665 
+Epoch 10 loss: 0.324035 
+Train error: 0.039473 
+Dev error: 0.036704 
+Epoch 0 loss: 0.324184 
+Train error: 0.039481 
+Dev error: 0.036670 
+Epoch 1 loss: 0.324085 
+Train error: 0.039476 
+Dev error: 0.036713 
+Epoch 2 loss: 0.324074 
+Train error: 0.039474 
+Dev error: 0.036686 
+Epoch 3 loss: 0.324080 
+Train error: 0.039473 
+Dev error: 0.036680 
+Epoch 4 loss: 0.324045 
+Train error: 0.039471 
+Dev error: 0.036664 
+Epoch 5 loss: 0.324151 
+Train error: 0.039472 
+Dev error: 0.036707 
+Epoch 6 loss: 0.324168 
+Train error: 0.039473 
+Dev error: 0.036684 
+Epoch 7 loss: 0.324071 
+Train error: 0.039473 
+Dev error: 0.036678 
+Epoch 8 loss: 0.324105 
+Train error: 0.039472 
+Dev error: 0.036693 
+Epoch 9 loss: 0.324261 
+Train error: 0.039474 
+Dev error: 0.036668 
+Epoch 10 loss: 0.324066 
+Train error: 0.039474 
+Dev error: 0.036711 
+Epoch 0 loss: 0.324184 
+Train error: 0.039481 
+Dev error: 0.077555 
+Epoch 1 loss: 0.324085 
+Train error: 0.039476 
+Dev error: 0.077530 
+Epoch 2 loss: 0.324074 
+Train error: 0.039474 
+Dev error: 0.077560 
+Epoch 3 loss: 0.324080 
+Train error: 0.039473 
+Dev error: 0.077540 
+Epoch 4 loss: 0.324045 
+Train error: 0.039471 
+Dev error: 0.077553 
+Epoch 5 loss: 0.324095 
+Train error: 0.039471 
+Dev error: 0.077547 
+Epoch 6 loss: 0.324136 
+Train error: 0.039472 
+Dev error: 0.077543 
+Epoch 7 loss: 0.324113 
+Train error: 0.039472 
+Dev error: 0.077538 
+Epoch 8 loss: 0.324147 
+Train error: 0.039472 
+Dev error: 0.077562 
+Epoch 9 loss: 0.324300 
+Train error: 0.039474 
+Dev error: 0.077553 
+Epoch 10 loss: 0.324036 
+Train error: 0.039474 
+Dev error: 0.077572 

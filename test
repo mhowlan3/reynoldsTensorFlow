@@ -1,0 +1,2001 @@
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 8.619758 
+Train error: 0.878755 
+Dev error: 0.886684 
+Epoch 10 loss: 4.386980 
+Train error: 0.472476 
+Dev error: 0.470571 
+Epoch 20 loss: 2.791682 
+Train error: 0.308573 
+Dev error: 0.289442 
+Epoch 30 loss: 1.730767 
+Train error: 0.187498 
+Dev error: 0.163239 
+Epoch 40 loss: 1.137112 
+Train error: 0.127983 
+Dev error: 0.103314 
+Epoch 50 loss: 0.926432 
+Train error: 0.105571 
+Dev error: 0.088529 
+Epoch 60 loss: 0.867703 
+Train error: 0.099206 
+Dev error: 0.083911 
+Epoch 70 loss: 0.847513 
+Train error: 0.097686 
+Dev error: 0.083955 
+Epoch 80 loss: 0.837591 
+Train error: 0.096556 
+Dev error: 0.083065 
+Epoch 90 loss: 0.832485 
+Train error: 0.095912 
+Dev error: 0.082386 
+Epoch 100 loss: 0.829193 
+Train error: 0.095588 
+Dev error: 0.082306 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 8.619758 
+Train error: 0.878755 
+Dev error: 0.886684 
+Epoch 10 loss: 4.386980 
+Train error: 0.472476 
+Dev error: 0.470571 
+Epoch 20 loss: 2.791682 
+Train error: 0.308573 
+Dev error: 0.289442 
+Epoch 30 loss: 1.730767 
+Train error: 0.187498 
+Dev error: 0.163239 
+Epoch 40 loss: 1.137112 
+Train error: 0.127983 
+Dev error: 0.103314 
+Epoch 50 loss: 0.926432 
+Train error: 0.105571 
+Dev error: 0.088529 
+Epoch 60 loss: 0.867703 
+Train error: 0.099206 
+Dev error: 0.083911 
+Epoch 70 loss: 0.847513 
+Train error: 0.097686 
+Dev error: 0.083955 
+Epoch 80 loss: 0.837591 
+Train error: 0.096556 
+Dev error: 0.083065 
+Epoch 90 loss: 0.832485 
+Train error: 0.095912 
+Dev error: 0.082386 
+Epoch 100 loss: 0.829193 
+Train error: 0.095588 
+Dev error: 0.082306 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 8.637053 
+Train error: 0.878981 
+Dev error: 0.862216 
+Epoch 10 loss: 4.399243 
+Train error: 0.472971 
+Dev error: 0.455641 
+Epoch 20 loss: 2.799611 
+Train error: 0.308725 
+Dev error: 0.337829 
+Epoch 30 loss: 1.730621 
+Train error: 0.187057 
+Dev error: 0.233165 
+Epoch 40 loss: 1.136022 
+Train error: 0.127457 
+Dev error: 0.177296 
+Epoch 50 loss: 0.924493 
+Train error: 0.105251 
+Dev error: 0.142416 
+Epoch 60 loss: 0.865963 
+Train error: 0.098852 
+Dev error: 0.131015 
+Epoch 70 loss: 0.846004 
+Train error: 0.097290 
+Dev error: 0.127301 
+Epoch 80 loss: 0.836116 
+Train error: 0.096177 
+Dev error: 0.125325 
+Epoch 90 loss: 0.830991 
+Train error: 0.095530 
+Dev error: 0.124547 
+Epoch 100 loss: 0.827612 
+Train error: 0.095228 
+Dev error: 0.123959 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 0.925268 
+Train error: 0.104518 
+Dev error: 0.097906 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 0.925268 
+Train error: 0.104518 
+Dev error: 0.092121 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 4.053364 
+Train error: 0.438621 
+Dev error: 0.163472 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 4.053364 
+Train error: 0.438621 
+Dev error: 0.163472 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 4.053364 
+Train error: 0.438621 
+Dev error: 0.163472 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 4.053364 
+Train error: 0.438621 
+Dev error: 0.163472 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 4.053364 
+Train error: 0.438621 
+Dev error: 0.163472 
+Epoch 10 loss: 0.967217 
+Train error: 0.138580 
+Dev error: 0.101777 
+Epoch 20 loss: 0.836695 
+Train error: 0.118766 
+Dev error: 0.094590 
+Epoch 30 loss: 0.822077 
+Train error: 0.111806 
+Dev error: 0.094053 
+Epoch 40 loss: 0.814545 
+Train error: 0.107308 
+Dev error: 0.090884 
+Epoch 50 loss: 0.787072 
+Train error: 0.104612 
+Dev error: 0.098181 
+Epoch 60 loss: 0.784477 
+Train error: 0.102594 
+Dev error: 0.091485 
+Epoch 70 loss: 0.795896 
+Train error: 0.101383 
+Dev error: 0.094576 
+Epoch 80 loss: 0.774130 
+Train error: 0.100400 
+Dev error: 0.092162 
+Epoch 90 loss: 0.802889 
+Train error: 0.099444 
+Dev error: 0.093798 
+Epoch 100 loss: 0.795255 
+Train error: 0.098659 
+Dev error: 0.094343 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.672195 
+Train error: 0.192785 
+Dev error: 0.108733 
+Epoch 10 loss: 0.819338 
+Train error: 0.108996 
+Dev error: 0.095378 
+Epoch 20 loss: 0.825963 
+Train error: 0.103803 
+Dev error: 0.093413 
+Epoch 30 loss: 0.795518 
+Train error: 0.101112 
+Dev error: 0.093555 
+Epoch 40 loss: 0.794332 
+Train error: 0.099528 
+Dev error: 0.093212 
+Epoch 50 loss: 0.781993 
+Train error: 0.098424 
+Dev error: 0.092321 
+Epoch 60 loss: 0.778281 
+Train error: 0.097680 
+Dev error: 0.092094 
+Epoch 70 loss: 0.785056 
+Train error: 0.097105 
+Dev error: 0.093849 
+Epoch 80 loss: 0.781604 
+Train error: 0.096639 
+Dev error: 0.092558 
+Epoch 90 loss: 0.793844 
+Train error: 0.096268 
+Dev error: 0.096658 
+Epoch 100 loss: 0.778449 
+Train error: 0.096005 
+Dev error: 0.091828 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.672195 
+Train error: 0.192785 
+Dev error: 0.108733 
+Epoch 10 loss: 0.819338 
+Train error: 0.108996 
+Dev error: 0.095378 
+Epoch 20 loss: 0.825963 
+Train error: 0.103803 
+Dev error: 0.093413 
+Epoch 30 loss: 0.795518 
+Train error: 0.101112 
+Dev error: 0.093555 
+Epoch 40 loss: 0.794332 
+Train error: 0.099528 
+Dev error: 0.093212 
+Epoch 50 loss: 0.781993 
+Train error: 0.098424 
+Dev error: 0.092321 
+Epoch 60 loss: 0.778281 
+Train error: 0.097680 
+Dev error: 0.092094 
+Epoch 70 loss: 0.785056 
+Train error: 0.097105 
+Dev error: 0.093849 
+Epoch 80 loss: 0.781604 
+Train error: 0.096639 
+Dev error: 0.092558 
+Epoch 90 loss: 0.793844 
+Train error: 0.096268 
+Dev error: 0.096658 
+Epoch 100 loss: 0.778449 
+Train error: 0.096005 
+Dev error: 0.091828 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.672195 
+Train error: 0.192785 
+Dev error: 0.108733 
+Epoch 10 loss: 0.819338 
+Train error: 0.108996 
+Dev error: 0.095378 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.672195 
+Train error: 0.192785 
+Dev error: 0.108733 
+Epoch 10 loss: 0.819338 
+Train error: 0.108996 
+Dev error: 0.095378 
+Epoch 20 loss: 0.825963 
+Train error: 0.103803 
+Dev error: 0.093413 
+Epoch 30 loss: 0.795518 
+Train error: 0.101112 
+Dev error: 0.093555 
+Epoch 40 loss: 0.794332 
+Train error: 0.099528 
+Dev error: 0.093212 
+Epoch 50 loss: 0.781993 
+Train error: 0.098424 
+Dev error: 0.092321 
+Epoch 60 loss: 0.778281 
+Train error: 0.097680 
+Dev error: 0.092094 
+Epoch 70 loss: 0.785056 
+Train error: 0.097105 
+Dev error: 0.093849 
+Epoch 80 loss: 0.781604 
+Train error: 0.096639 
+Dev error: 0.092558 
+Epoch 90 loss: 0.793844 
+Train error: 0.096268 
+Dev error: 0.096658 
+Epoch 100 loss: 0.778449 
+Train error: 0.096005 
+Dev error: 0.091828 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 5, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.323273 
+Train error: 0.150561 
+Dev error: 0.104948 
+Epoch 10 loss: 0.807649 
+Train error: 0.102886 
+Dev error: 0.094366 
+Epoch 20 loss: 0.784679 
+Train error: 0.099078 
+Dev error: 0.092653 
+Epoch 30 loss: 0.776934 
+Train error: 0.097179 
+Dev error: 0.090818 
+Epoch 40 loss: 0.788192 
+Train error: 0.096060 
+Dev error: 0.090524 
+Epoch 50 loss: 0.751126 
+Train error: 0.095099 
+Dev error: 0.089003 
+Epoch 60 loss: 0.751058 
+Train error: 0.094345 
+Dev error: 0.088432 
+Epoch 70 loss: 0.750409 
+Train error: 0.093659 
+Dev error: 0.090080 
+Epoch 80 loss: 0.739422 
+Train error: 0.093003 
+Dev error: 0.086842 
+Epoch 90 loss: 0.732944 
+Train error: 0.092382 
+Dev error: 0.086609 
+Epoch 100 loss: 0.725902 
+Train error: 0.091802 
+Dev error: 0.083838 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 6.297133 
+Train error: 0.760016 
+Dev error: 0.403284 
+Epoch 10 loss: 0.779658 
+Train error: 0.187747 
+Dev error: 0.091962 
+Epoch 20 loss: 0.760280 
+Train error: 0.142396 
+Dev error: 0.091205 
+Epoch 30 loss: 0.753093 
+Train error: 0.125918 
+Dev error: 0.088879 
+Epoch 40 loss: 0.746038 
+Train error: 0.117226 
+Dev error: 0.089357 
+Epoch 50 loss: 0.740625 
+Train error: 0.111833 
+Dev error: 0.088811 
+Epoch 60 loss: 0.736683 
+Train error: 0.108076 
+Dev error: 0.087247 
+Epoch 70 loss: 0.731476 
+Train error: 0.105300 
+Dev error: 0.086280 
+Epoch 80 loss: 0.723725 
+Train error: 0.103130 
+Dev error: 0.086580 
+Epoch 90 loss: 0.718953 
+Train error: 0.101367 
+Dev error: 0.085489 
+Epoch 100 loss: 0.712578 
+Train error: 0.099897 
+Dev error: 0.084640 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 100, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 6.254136 
+Train error: 0.753637 
+Dev error: 0.304483 
+Epoch 10 loss: 0.800473 
+Train error: 0.162136 
+Dev error: 0.093699 
+Epoch 20 loss: 0.771231 
+Train error: 0.129588 
+Dev error: 0.090245 
+Epoch 30 loss: 0.775993 
+Train error: 0.117577 
+Dev error: 0.089519 
+Epoch 40 loss: 0.752467 
+Train error: 0.111190 
+Dev error: 0.088533 
+Epoch 50 loss: 0.743138 
+Train error: 0.107181 
+Dev error: 0.088586 
+Epoch 60 loss: 0.747007 
+Train error: 0.104208 
+Dev error: 0.087560 
+Epoch 70 loss: 0.728118 
+Train error: 0.101982 
+Dev error: 0.085177 
+Epoch 80 loss: 0.726831 
+Train error: 0.100196 
+Dev error: 0.083274 
+Epoch 90 loss: 0.718847 
+Train error: 0.098665 
+Dev error: 0.082533 
+Epoch 100 loss: 0.707161 
+Train error: 0.097260 
+Dev error: 0.080678 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 3, hidden units = 256, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 6.258909 
+Train error: 0.755301 
+Dev error: 0.448345 
+Epoch 10 loss: 0.840696 
+Train error: 0.235720 
+Dev error: 0.097469 
+Epoch 20 loss: 0.774626 
+Train error: 0.168943 
+Dev error: 0.093010 
+Epoch 30 loss: 0.763325 
+Train error: 0.144363 
+Dev error: 0.091249 
+Epoch 40 loss: 0.761824 
+Train error: 0.131564 
+Dev error: 0.090608 
+Epoch 50 loss: 0.754075 
+Train error: 0.123684 
+Dev error: 0.090357 
+Epoch 60 loss: 0.752428 
+Train error: 0.118325 
+Dev error: 0.090286 
+Epoch 70 loss: 0.745949 
+Train error: 0.114408 
+Dev error: 0.089365 
+Epoch 80 loss: 0.746401 
+Train error: 0.111423 
+Dev error: 0.089500 
+Epoch 90 loss: 0.744337 
+Train error: 0.109062 
+Dev error: 0.090168 
+Epoch 100 loss: 0.742365 
+Train error: 0.107143 
+Dev error: 0.088961 
+START OF NEW MODEL
+learning rate = 0.008000, hidden layers = 3, hidden units = 33, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.730468 
+Train error: 0.201111 
+Dev error: 0.099921 
+Epoch 10 loss: 0.783303 
+Train error: 0.104830 
+Dev error: 0.096275 
+Epoch 20 loss: 0.794075 
+Train error: 0.099812 
+Dev error: 0.093745 
+Epoch 30 loss: 0.778459 
+Train error: 0.097778 
+Dev error: 0.093384 
+Epoch 40 loss: 0.781956 
+Train error: 0.096602 
+Dev error: 0.095171 
+Epoch 50 loss: 0.762778 
+Train error: 0.095770 
+Dev error: 0.092131 
+Epoch 60 loss: 0.763486 
+Train error: 0.095204 
+Dev error: 0.091970 
+START OF NEW MODEL
+learning rate = 0.008000, hidden layers = 3, hidden units = 33, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.730468 
+Train error: 0.201111 
+Dev error: 0.099921 
+Epoch 10 loss: 0.783303 
+Train error: 0.104830 
+Dev error: 0.096275 
+Epoch 20 loss: 0.794075 
+Train error: 0.099812 
+Dev error: 0.093745 
+Epoch 30 loss: 0.778459 
+Train error: 0.097778 
+Dev error: 0.093384 
+Epoch 40 loss: 0.781956 
+Train error: 0.096602 
+Dev error: 0.095171 
+Epoch 50 loss: 0.762778 
+Train error: 0.095770 
+Dev error: 0.092131 
+Epoch 60 loss: 0.763486 
+Train error: 0.095204 
+Dev error: 0.091970 
+Epoch 70 loss: 0.769007 
+Train error: 0.094758 
+Dev error: 0.091375 
+Epoch 80 loss: 0.758937 
+Train error: 0.094328 
+Dev error: 0.090577 
+Epoch 90 loss: 0.755076 
+Train error: 0.093958 
+Dev error: 0.092019 
+Epoch 100 loss: 0.751132 
+Train error: 0.093616 
+Dev error: 0.089212 
+START OF NEW MODEL
+learning rate = 0.008000, hidden layers = 10, hidden units = 33, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.147637 
+Train error: 0.243225 
+Dev error: 0.097879 
+Epoch 10 loss: 0.802715 
+Train error: 0.111539 
+Dev error: 0.092360 
+Epoch 20 loss: 0.786480 
+Train error: 0.103780 
+Dev error: 0.092147 
+Epoch 30 loss: 0.793154 
+Train error: 0.101039 
+Dev error: 0.091892 
+Epoch 40 loss: 0.776142 
+Train error: 0.099133 
+Dev error: 0.098780 
+Epoch 50 loss: 0.776363 
+Train error: 0.097877 
+Dev error: 0.089093 
+Epoch 60 loss: 0.770388 
+Train error: 0.097046 
+Dev error: 0.088947 
+Epoch 70 loss: 0.769602 
+Train error: 0.096345 
+Dev error: 0.089054 
+Epoch 80 loss: 0.757222 
+Train error: 0.095714 
+Dev error: 0.089538 
+Epoch 90 loss: 0.778714 
+Train error: 0.095189 
+Dev error: 0.089251 
+Epoch 100 loss: 0.753780 
+Train error: 0.094656 
+Dev error: 0.087745 
+START OF NEW MODEL
+learning rate = 0.008000, hidden layers = 10, hidden units = 33, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.645067 
+Train error: 0.181590 
+Dev error: 0.100098 
+Epoch 10 loss: 0.852227 
+Train error: 0.105978 
+Dev error: 0.092102 
+Epoch 20 loss: 0.839350 
+Train error: 0.101699 
+Dev error: 0.095776 
+Epoch 30 loss: 0.836706 
+Train error: 0.099734 
+Dev error: 0.091533 
+Epoch 40 loss: 0.821777 
+Train error: 0.098510 
+Dev error: 0.092989 
+Epoch 50 loss: 0.819114 
+Train error: 0.097712 
+Dev error: 0.090488 
+Epoch 60 loss: 0.813166 
+Train error: 0.097064 
+Dev error: 0.096011 
+Epoch 70 loss: 0.809427 
+Train error: 0.096517 
+Dev error: 0.091170 
+Epoch 80 loss: 0.816274 
+Train error: 0.096050 
+Dev error: 0.091056 
+Epoch 90 loss: 0.811369 
+Train error: 0.095658 
+Dev error: 0.092338 
+Epoch 100 loss: 0.800450 
+Train error: 0.095327 
+Dev error: 0.091596 
+START OF NEW MODEL
+learning rate = 0.000500, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 4.603827 
+Train error: 0.529117 
+Dev error: 0.304811 
+Epoch 10 loss: 0.824055 
+Train error: 0.144212 
+Dev error: 0.091934 
+Epoch 20 loss: 0.814533 
+Train error: 0.120450 
+Dev error: 0.091570 
+Epoch 30 loss: 0.810097 
+Train error: 0.111774 
+Dev error: 0.090654 
+Epoch 40 loss: 0.807077 
+Train error: 0.107206 
+Dev error: 0.090443 
+Epoch 50 loss: 0.800080 
+Train error: 0.104347 
+Dev error: 0.090223 
+Epoch 60 loss: 0.797906 
+Train error: 0.102364 
+Dev error: 0.089534 
+Epoch 70 loss: 0.798492 
+Train error: 0.100891 
+Dev error: 0.089566 
+Epoch 80 loss: 0.789794 
+Train error: 0.099741 
+Dev error: 0.091051 
+Epoch 90 loss: 0.790062 
+Train error: 0.098805 
+Dev error: 0.089860 
+Epoch 100 loss: 0.788722 
+Train error: 0.098026 
+Dev error: 0.089367 
+START OF NEW MODEL
+learning rate = 0.000500, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 31.587283 
+Train error: 0.533445 
+Dev error: 0.333438 
+Epoch 10 loss: 1.420406 
+Train error: 0.150583 
+Dev error: 0.092358 
+Epoch 20 loss: 1.399174 
+Train error: 0.124101 
+Dev error: 0.092010 
+Epoch 30 loss: 1.376956 
+Train error: 0.114527 
+Dev error: 0.092434 
+Epoch 40 loss: 1.366713 
+Train error: 0.109570 
+Dev error: 0.091751 
+Epoch 50 loss: 1.350570 
+Train error: 0.106475 
+Dev error: 0.091759 
+Epoch 60 loss: 1.329464 
+Train error: 0.104338 
+Dev error: 0.091352 
+Epoch 70 loss: 1.322639 
+Train error: 0.102770 
+Dev error: 0.090715 
+Epoch 80 loss: 1.302804 
+Train error: 0.101559 
+Dev error: 0.091841 
+Epoch 90 loss: 1.299090 
+Train error: 0.100594 
+Dev error: 0.093443 
+Epoch 100 loss: 1.276363 
+Train error: 0.099784 
+Dev error: 0.091281 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 16, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 87.642851 
+Train error: 0.997012 
+Dev error: 0.992310 
+Epoch 10 loss: 10.139138 
+Train error: 0.608946 
+Dev error: 0.284100 
+Epoch 20 loss: 3.044472 
+Train error: 0.413723 
+Dev error: 0.138551 
+Epoch 30 loss: 1.946960 
+Train error: 0.320564 
+Dev error: 0.111294 
+Epoch 40 loss: 1.700857 
+Train error: 0.268996 
+Dev error: 0.103717 
+Epoch 50 loss: 1.602658 
+Train error: 0.236699 
+Dev error: 0.100296 
+Epoch 60 loss: 1.550195 
+Train error: 0.214593 
+Dev error: 0.098509 
+Epoch 70 loss: 1.513190 
+Train error: 0.198486 
+Dev error: 0.097262 
+Epoch 80 loss: 1.487784 
+Train error: 0.186213 
+Dev error: 0.096726 
+Epoch 90 loss: 1.478199 
+Train error: 0.176547 
+Dev error: 0.096091 
+Epoch 100 loss: 1.461069 
+Train error: 0.168735 
+Dev error: 0.095288 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 16, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 87.642851 
+Train error: 0.997012 
+Dev error: 0.992310 
+Epoch 10 loss: 10.139138 
+Train error: 0.608946 
+Dev error: 0.284100 
+Epoch 20 loss: 3.044472 
+Train error: 0.413723 
+Dev error: 0.138551 
+Epoch 30 loss: 1.946960 
+Train error: 0.320564 
+Dev error: 0.111294 
+Epoch 40 loss: 1.700857 
+Train error: 0.268996 
+Dev error: 0.103717 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 16, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 8.614828 
+Train error: 0.996938 
+Dev error: 0.992066 
+Epoch 10 loss: 2.356919 
+Train error: 0.593183 
+Dev error: 0.249038 
+Epoch 20 loss: 1.082922 
+Train error: 0.390998 
+Dev error: 0.120225 
+Epoch 30 loss: 0.942284 
+Train error: 0.301633 
+Dev error: 0.106556 
+Epoch 40 loss: 0.900083 
+Train error: 0.253900 
+Dev error: 0.101802 
+Epoch 50 loss: 0.876399 
+Train error: 0.224208 
+Dev error: 0.099144 
+Epoch 60 loss: 0.862730 
+Train error: 0.203936 
+Dev error: 0.097529 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 10, hidden units = 16, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.122946 
+Train error: 0.237864 
+Dev error: 0.119951 
+Epoch 10 loss: 0.919342 
+Train error: 0.116019 
+Dev error: 0.094530 
+Epoch 20 loss: 0.879743 
+Train error: 0.108293 
+Dev error: 0.094440 
+Epoch 30 loss: 0.850289 
+Train error: 0.105545 
+Dev error: 0.093030 
+Epoch 40 loss: 0.876605 
+Train error: 0.103976 
+Dev error: 0.092916 
+Epoch 50 loss: 0.857693 
+Train error: 0.102940 
+Dev error: 0.101445 
+Epoch 60 loss: 1.057108 
+Train error: 0.105222 
+Dev error: 0.154161 
+Epoch 70 loss: 0.992211 
+Train error: 0.107252 
+Dev error: 0.109853 
+Epoch 80 loss: 0.863799 
+Train error: 0.108791 
+Dev error: 0.095909 
+Epoch 90 loss: 0.882300 
+Train error: 0.108853 
+Dev error: 0.101865 
+Epoch 100 loss: 0.913267 
+Train error: 0.108281 
+Dev error: 0.095899 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 10, hidden units = 128, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 750.059349 
+Train error: 92.600967 
+Dev error: 0.357991 
+Epoch 10 loss: 3.057657 
+Train error: 8.740495 
+Dev error: 0.355822 
+Epoch 20 loss: 3.065350 
+Train error: 4.746948 
+Dev error: 0.355628 
+Epoch 30 loss: 3.056578 
+Train error: 3.329896 
+Dev error: 0.355198 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 128, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.709218 
+Train error: 0.189714 
+Dev error: 0.116689 
+Epoch 10 loss: 0.837151 
+Train error: 0.107899 
+Dev error: 0.092632 
+Epoch 20 loss: 0.834691 
+Train error: 0.102189 
+Dev error: 0.093111 
+Epoch 30 loss: 0.817258 
+Train error: 0.099679 
+Dev error: 0.090651 
+Epoch 40 loss: 0.816315 
+Train error: 0.098010 
+Dev error: 0.091792 
+Epoch 50 loss: 0.794552 
+Train error: 0.096774 
+Dev error: 0.089401 
+Epoch 60 loss: 0.775759 
+Train error: 0.095671 
+Dev error: 0.089456 
+Epoch 70 loss: 0.774635 
+Train error: 0.094695 
+Dev error: 0.087492 
+Epoch 80 loss: 0.765962 
+Train error: 0.093822 
+Dev error: 0.085467 
+Epoch 90 loss: 0.756856 
+Train error: 0.092998 
+Dev error: 0.086113 
+Epoch 100 loss: 0.744600 
+Train error: 0.092200 
+Dev error: 0.084938 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 1, hidden units = 128, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.667816 
+Train error: 0.302120 
+Dev error: 0.098507 
+Epoch 10 loss: 0.826454 
+Train error: 0.114554 
+Dev error: 0.091051 
+Epoch 20 loss: 0.816596 
+Train error: 0.105239 
+Dev error: 0.092761 
+Epoch 30 loss: 0.816810 
+Train error: 0.101753 
+Dev error: 0.091002 
+Epoch 40 loss: 0.816417 
+Train error: 0.099898 
+Dev error: 0.093874 
+Epoch 50 loss: 0.811599 
+Train error: 0.098754 
+Dev error: 0.094158 
+Epoch 60 loss: 0.812098 
+Train error: 0.097949 
+Dev error: 0.091727 
+Epoch 70 loss: 0.811282 
+Train error: 0.097321 
+Dev error: 0.092205 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 1, hidden units = 256, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.213048 
+Train error: 0.248997 
+Dev error: 0.094482 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 3, hidden units = 256, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.370469 
+Train error: 0.149997 
+Dev error: 0.097510 
+Epoch 10 loss: 0.851723 
+Train error: 0.103078 
+Dev error: 0.092751 
+Epoch 20 loss: 0.831297 
+Train error: 0.099795 
+Dev error: 0.092452 
+Epoch 30 loss: 0.835403 
+Train error: 0.098101 
+Dev error: 0.092981 
+Epoch 40 loss: 0.821546 
+Train error: 0.097145 
+Dev error: 0.091990 
+Epoch 50 loss: 0.812858 
+Train error: 0.096445 
+Dev error: 0.091104 
+Epoch 60 loss: 0.804382 
+Train error: 0.095843 
+Dev error: 0.093398 
+Epoch 70 loss: 0.805042 
+Train error: 0.095329 
+Dev error: 0.091079 
+Epoch 80 loss: 0.798664 
+Train error: 0.094886 
+Dev error: 0.091558 
+Epoch 90 loss: 0.799592 
+Train error: 0.094502 
+Dev error: 0.090806 
+Epoch 100 loss: 0.785172 
+Train error: 0.094134 
+Dev error: 0.090608 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 3, hidden units = 10, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 4.053583 
+Train error: 0.463831 
+Dev error: 0.140524 
+Epoch 10 loss: 0.829912 
+Train error: 0.131344 
+Dev error: 0.092302 
+Epoch 20 loss: 0.821499 
+Train error: 0.114077 
+Dev error: 0.091784 
+Epoch 30 loss: 0.819857 
+Train error: 0.107808 
+Dev error: 0.091939 
+Epoch 40 loss: 0.818346 
+Train error: 0.104584 
+Dev error: 0.091581 
+Epoch 50 loss: 0.815679 
+Train error: 0.102593 
+Dev error: 0.091375 
+Epoch 60 loss: 0.814547 
+Train error: 0.101233 
+Dev error: 0.091285 
+Epoch 70 loss: 0.818892 
+Train error: 0.100253 
+Dev error: 0.091470 
+Epoch 80 loss: 0.816292 
+Train error: 0.099504 
+Dev error: 0.093660 
+Epoch 90 loss: 0.817481 
+Train error: 0.098915 
+Dev error: 0.092987 
+Epoch 100 loss: 0.814518 
+Train error: 0.098436 
+Dev error: 0.091106 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 3, hidden units = 64, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.715660 
+Train error: 0.191273 
+Dev error: 0.097092 
+Epoch 10 loss: 0.836358 
+Train error: 0.105262 
+Dev error: 0.091653 
+Epoch 20 loss: 0.823394 
+Train error: 0.100592 
+Dev error: 0.093980 
+Epoch 30 loss: 0.820851 
+Train error: 0.098653 
+Dev error: 0.091272 
+Epoch 40 loss: 0.822909 
+Train error: 0.097620 
+Dev error: 0.091227 
+Epoch 50 loss: 0.813589 
+Train error: 0.096884 
+Dev error: 0.090446 
+Epoch 60 loss: 0.808460 
+Train error: 0.096286 
+Dev error: 0.092844 
+Epoch 70 loss: 0.807373 
+Train error: 0.095829 
+Dev error: 0.092275 
+Epoch 80 loss: 0.804862 
+Train error: 0.095441 
+Dev error: 0.093719 
+Epoch 90 loss: 0.804328 
+Train error: 0.095099 
+Dev error: 0.090359 
+Epoch 100 loss: 0.794273 
+Train error: 0.094789 
+Dev error: 0.090658 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 30, hidden units = 64, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 7.150648 
+Train error: 0.825772 
+Dev error: 0.378371 
+Epoch 10 loss: 0.849794 
+Train error: 0.184721 
+Dev error: 0.094145 
+Epoch 20 loss: 0.824283 
+Train error: 0.142513 
+Dev error: 0.091965 
+Epoch 30 loss: 0.815424 
+Train error: 0.127087 
+Dev error: 0.090863 
+Epoch 40 loss: 0.812858 
+Train error: 0.119013 
+Dev error: 0.090494 
+Epoch 50 loss: 0.807346 
+Train error: 0.114016 
+Dev error: 0.091085 
+Epoch 60 loss: 0.805731 
+Train error: 0.110603 
+Dev error: 0.089714 
+Epoch 70 loss: 0.802523 
+Train error: 0.108089 
+Dev error: 0.090478 
+Epoch 80 loss: 0.797142 
+Train error: 0.106152 
+Dev error: 0.089331 
+Epoch 90 loss: 0.799755 
+Train error: 0.104623 
+Dev error: 0.090128 
+Epoch 100 loss: 0.794307 
+Train error: 0.103360 
+Dev error: 0.089294 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 100, hidden units = 64, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 7.558181 
+Train error: 0.872559 
+Dev error: 0.360750 
+Epoch 10 loss: 0.852534 
+Train error: 0.183428 
+Dev error: 0.094387 
+Epoch 20 loss: 0.837353 
+Train error: 0.142075 
+Dev error: 0.091505 
+Epoch 30 loss: 0.826284 
+Train error: 0.126922 
+Dev error: 0.091367 
+Epoch 40 loss: 0.825557 
+Train error: 0.119075 
+Dev error: 0.090708 
+Epoch 50 loss: 0.813963 
+Train error: 0.114145 
+Dev error: 0.091000 
+Epoch 60 loss: 0.805382 
+Train error: 0.110744 
+Dev error: 0.092995 
+Epoch 70 loss: 0.812945 
+Train error: 0.108244 
+Dev error: 0.089598 
+Epoch 80 loss: 0.803659 
+Train error: 0.106313 
+Dev error: 0.090284 
+Epoch 90 loss: 0.805280 
+Train error: 0.104782 
+Dev error: 0.089150 
+Epoch 100 loss: 0.791058 
+Train error: 0.103516 
+Dev error: 0.091286 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 100, hidden units = 64, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.712723 
+Train error: 0.196068 
+Dev error: 0.094947 
+Epoch 10 loss: 0.832996 
+Train error: 0.105431 
+Dev error: 0.091482 
+Epoch 20 loss: 0.829539 
+Train error: 0.100573 
+Dev error: 0.091700 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 7.350160 
+Train error: 2.170524 
+Dev error: 1.442852 
+Epoch 10 loss: 2.904320 
+Train error: 0.397227 
+Dev error: 0.179099 
+Epoch 20 loss: 1.524175 
+Train error: 0.261557 
+Dev error: 0.294376 
+Epoch 30 loss: 1.419828 
+Train error: 0.137308 
+Dev error: 0.104087 
+Epoch 40 loss: 0.848760 
+Train error: 0.132323 
+Dev error: 0.104852 
+Epoch 50 loss: 0.852319 
+Train error: 0.105192 
+Dev error: 0.027336 
+Epoch 60 loss: 0.778042 
+Train error: 0.102662 
+Dev error: 0.034021 
+Epoch 70 loss: 0.784670 
+Train error: 0.101021 
+Dev error: 0.029555 
+Epoch 80 loss: 0.756590 
+Train error: 0.100030 
+Dev error: 0.035851 
+Epoch 90 loss: 0.767748 
+Train error: 0.103800 
+Dev error: 0.052534 
+Epoch 100 loss: 0.714267 
+Train error: 0.094930 
+Dev error: 0.032566 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 7.291300 
+Train error: 2.144850 
+Dev error: 1.036223 
+Epoch 10 loss: 3.075887 
+Train error: 0.353084 
+Dev error: 0.220690 
+Epoch 20 loss: 1.493173 
+Train error: 0.225557 
+Dev error: 0.106613 
+Epoch 30 loss: 1.090230 
+Train error: 0.125105 
+Dev error: 0.093814 
+Epoch 40 loss: 0.877765 
+Train error: 0.144059 
+Dev error: 0.126511 
+Epoch 50 loss: 0.825669 
+Train error: 0.121570 
+Dev error: 0.109387 
+Epoch 60 loss: 0.729796 
+Train error: 0.132687 
+Dev error: 0.111552 
+Epoch 70 loss: 0.791189 
+Train error: 0.102298 
+Dev error: 0.092138 
+Epoch 80 loss: 0.748558 
+Train error: 0.104489 
+Dev error: 0.094627 
+Epoch 90 loss: 0.740110 
+Train error: 0.118548 
+Dev error: 0.102421 
+Epoch 100 loss: 0.805466 
+Train error: 0.104802 
+Dev error: 0.093274 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 5, hidden units = 128, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 7.256873 
+Train error: 0.817186 
+Dev error: 0.868769 
+Epoch 10 loss: 2.464181 
+Train error: 0.280722 
+Dev error: 0.211462 
+Epoch 20 loss: 1.408889 
+Train error: 0.174491 
+Dev error: 0.132882 
+Epoch 30 loss: 0.902300 
+Train error: 0.116599 
+Dev error: 0.100638 
+Epoch 40 loss: 0.794884 
+Train error: 0.107181 
+Dev error: 0.087239 
+Epoch 50 loss: 0.745072 
+Train error: 0.101276 
+Dev error: 0.081760 
+Epoch 60 loss: 0.857783 
+Train error: 0.102562 
+Dev error: 0.091617 
+Epoch 70 loss: 0.739164 
+Train error: 0.119031 
+Dev error: 0.116276 
+Epoch 80 loss: 0.762895 
+Train error: 0.101845 
+Dev error: 0.083267 
+Epoch 90 loss: 0.744412 
+Train error: 0.106093 
+Dev error: 0.086884 
+Epoch 100 loss: 0.717820 
+Train error: 0.102732 
+Dev error: 0.083099 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 5, hidden units = 30, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 7.389743 
+Train error: 0.993154 
+Dev error: 0.991082 
+Epoch 10 loss: 4.436916 
+Train error: 0.506044 
+Dev error: 0.507426 
+Epoch 20 loss: 2.634339 
+Train error: 0.354799 
+Dev error: 0.283655 
+Epoch 30 loss: 1.825150 
+Train error: 0.232044 
+Dev error: 0.186795 
+Epoch 40 loss: 1.158740 
+Train error: 0.153411 
+Dev error: 0.115569 
+Epoch 50 loss: 0.953563 
+Train error: 0.127445 
+Dev error: 0.101069 
+Epoch 60 loss: 0.835742 
+Train error: 0.112683 
+Dev error: 0.093062 
+Epoch 70 loss: 0.781668 
+Train error: 0.105789 
+Dev error: 0.083650 
+Epoch 80 loss: 0.752939 
+Train error: 0.102245 
+Dev error: 0.081679 
+Epoch 90 loss: 0.740627 
+Train error: 0.100694 
+Dev error: 0.081805 
+Epoch 100 loss: 0.728692 
+Train error: 0.099135 
+Dev error: 0.079287 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 100, hidden units = 64, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 100, hidden units = 64, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 100, hidden units = 64, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 100, hidden units = 64, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 100, hidden units = 64, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 100, hidden units = 64, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.745798 
+Train error: 0.199883 
+Dev error: 0.098665 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 100, hidden units = 64, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 7.506182 
+Train error: 0.871222 
+Dev error: 0.352465 
+Epoch 10 loss: 0.844728 
+Train error: 0.186721 
+Dev error: 0.096381 
+Epoch 20 loss: 0.834648 
+Train error: 0.143840 
+Dev error: 0.094733 
+Epoch 30 loss: 0.816260 
+Train error: 0.128148 
+Dev error: 0.093098 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 5, hidden units = 128, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 7.122819 
+Train error: 0.828686 
+Dev error: 0.605989 
+Epoch 10 loss: 0.885551 
+Train error: 0.274677 
+Dev error: 0.098015 
+Epoch 20 loss: 0.824717 
+Train error: 0.190384 
+Dev error: 0.094270 
+Epoch 30 loss: 0.819943 
+Train error: 0.159812 
+Dev error: 0.093350 
+Epoch 40 loss: 0.814065 
+Train error: 0.143967 
+Dev error: 0.093831 
+Epoch 50 loss: 0.808259 
+Train error: 0.134221 
+Dev error: 0.092633 
+Epoch 60 loss: 0.803348 
+Train error: 0.127604 
+Dev error: 0.092651 
+Epoch 70 loss: 0.800715 
+Train error: 0.122817 
+Dev error: 0.092220 
+Epoch 80 loss: 0.801569 
+Train error: 0.119181 
+Dev error: 0.091891 
+Epoch 90 loss: 0.797348 
+Train error: 0.116309 
+Dev error: 0.091714 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 5, hidden units = 128, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 6.182550 
+Train error: 0.717902 
+Dev error: 0.504204 
+Epoch 10 loss: 0.907823 
+Train error: 0.269778 
+Dev error: 0.100321 
+Epoch 20 loss: 0.832931 
+Train error: 0.188639 
+Dev error: 0.095340 
+Epoch 30 loss: 0.834916 
+Train error: 0.158895 
+Dev error: 0.094178 
+Epoch 40 loss: 0.816393 
+Train error: 0.143384 
+Dev error: 0.093844 
+Epoch 50 loss: 0.811183 
+Train error: 0.133835 
+Dev error: 0.093751 
+Epoch 60 loss: 0.807471 
+Train error: 0.127360 
+Dev error: 0.093509 
+Epoch 70 loss: 0.806957 
+Train error: 0.122668 
+Dev error: 0.093333 
+Epoch 80 loss: 0.804648 
+Train error: 0.119099 
+Dev error: 0.092592 
+Epoch 90 loss: 0.800381 
+Train error: 0.116277 
+Dev error: 0.093552 
+Epoch 100 loss: 0.798077 
+Train error: 0.113994 
+Dev error: 0.093167 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 100 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.663317 
+Train error: 0.186568 
+Dev error: 0.103709 
+Epoch 10 loss: 0.828893 
+Train error: 0.105825 
+Dev error: 0.099218 
+Epoch 20 loss: 0.824869 
+Train error: 0.100938 
+Dev error: 0.093962 
+Epoch 30 loss: 0.829458 
+Train error: 0.098664 
+Dev error: 0.094332 
+Epoch 40 loss: 0.804269 
+Train error: 0.097175 
+Dev error: 0.093043 
+Epoch 50 loss: 0.786797 
+Train error: 0.095953 
+Dev error: 0.089176 
+Epoch 60 loss: 0.772094 
+Train error: 0.094917 
+Dev error: 0.089299 
+Epoch 70 loss: 0.764873 
+Train error: 0.093950 
+Dev error: 0.087285 
+Epoch 80 loss: 0.756068 
+Train error: 0.093078 
+Dev error: 0.085615 
+Epoch 90 loss: 0.747755 
+Train error: 0.092265 
+Dev error: 0.083300 
+Epoch 100 loss: 0.733439 
+Train error: 0.091509 
+Dev error: 0.083030 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 200 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.660810 
+Train error: 0.186146 
+Dev error: 0.384109 
+Epoch 20 loss: 0.822117 
+Train error: 0.101920 
+Dev error: 0.379740 
+Epoch 40 loss: 0.810331 
+Train error: 0.098367 
+Dev error: 0.379787 
+Epoch 60 loss: 0.782522 
+Train error: 0.096523 
+Dev error: 0.379632 
+Epoch 80 loss: 0.771051 
+Train error: 0.095224 
+Dev error: 0.384703 
+Epoch 100 loss: 0.752168 
+Train error: 0.093879 
+Dev error: 0.384294 
+Epoch 120 loss: 0.728991 
+Train error: 0.092715 
+Dev error: 0.382381 
+Epoch 140 loss: 0.721463 
+Train error: 0.091638 
+Dev error: 0.392493 
+Epoch 160 loss: 0.709415 
+Train error: 0.090613 
+Dev error: 0.389473 
+Epoch 180 loss: 0.700091 
+Train error: 0.089779 
+Dev error: 0.388644 
+Epoch 200 loss: 0.694210 
+Train error: 0.089027 
+Dev error: 0.388533 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 200 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.317267 
+Train error: 0.129550 
+Dev error: 0.095524 
+Epoch 20 loss: 0.979801 
+Train error: 0.099707 
+Dev error: 0.095447 
+Epoch 40 loss: 0.948906 
+Train error: 0.098311 
+Dev error: 0.094008 
+Epoch 60 loss: 0.933098 
+Train error: 0.097714 
+Dev error: 0.092587 
+Epoch 80 loss: 0.922176 
+Train error: 0.097386 
+Dev error: 0.093536 
+Epoch 100 loss: 0.917598 
+Train error: 0.097184 
+Dev error: 0.095540 
+Epoch 120 loss: 0.912628 
+Train error: 0.097009 
+Dev error: 0.094543 
+Epoch 140 loss: 0.911906 
+Train error: 0.096894 
+Dev error: 0.093383 
+Epoch 160 loss: 0.904530 
+Train error: 0.096799 
+Dev error: 0.094389 
+Epoch 180 loss: 0.908080 
+Train error: 0.096715 
+Dev error: 0.098592 
+Epoch 200 loss: 0.897879 
+Train error: 0.096640 
+Dev error: 0.093595 
+Epoch 0 loss: 1.284687 
+Train error: 0.143979 
+Dev error: 0.096188 
+Epoch 10 loss: 0.806508 
+Train error: 0.098840 
+Dev error: 0.095561 
+Epoch 20 loss: 0.793646 
+Train error: 0.095674 
+Dev error: 0.093085 
+Epoch 0 loss: 0.959951 
+Train error: 0.108531 
+Dev error: 0.100383 
+Epoch 0 loss: 0.957354 
+Train error: 0.108189 
+Dev error: 0.100374 
+Epoch 1 loss: 0.849833 
+Train error: 0.102569 
+Dev error: 0.098085 
+Epoch 2 loss: 0.843269 
+Train error: 0.100494 
+Dev error: 0.098200 
+Epoch 3 loss: 0.839605 
+Train error: 0.099350 
+Dev error: 0.093535 
+Epoch 4 loss: 0.837018 
+Train error: 0.098610 
+Dev error: 0.098768 
+Epoch 5 loss: 0.837179 
+Train error: 0.098117 
+Dev error: 0.096176 
+Epoch 6 loss: 0.830746 
+Train error: 0.097675 
+Dev error: 0.092664 
+Epoch 7 loss: 0.831190 
+Train error: 0.097342 
+Dev error: 0.092344 
+Epoch 8 loss: 0.831972 
+Train error: 0.097102 
+Dev error: 0.092785 
+Epoch 9 loss: 0.828084 
+Train error: 0.096869 
+Dev error: 0.092082 
+Epoch 10 loss: 0.829734 
+Train error: 0.096694 
+Dev error: 0.092694 
+Epoch 11 loss: 0.827475 
+Train error: 0.096528 
+Dev error: 0.092200 
+Epoch 12 loss: 0.826827 
+Train error: 0.096381 
+Dev error: 0.093762 
+Epoch 13 loss: 0.827446 
+Train error: 0.096262 
+Dev error: 0.092456 
+Epoch 14 loss: 0.826863 
+Train error: 0.096155 
+Dev error: 0.092952 
+Epoch 15 loss: 0.825384 
+Train error: 0.096051 
+Dev error: 0.092206 
+Epoch 16 loss: 0.825419 
+Train error: 0.095962 
+Dev error: 0.092177 
+Epoch 17 loss: 0.826257 
+Train error: 0.095885 
+Dev error: 0.092965 
+Epoch 18 loss: 0.823125 
+Train error: 0.095800 
+Dev error: 0.092112 
+Epoch 19 loss: 0.823699 
+Train error: 0.095727 
+Dev error: 0.095333 
+Epoch 20 loss: 0.824389 
+Train error: 0.095664 
+Dev error: 0.092675 
+Epoch 21 loss: 0.824365 
+Train error: 0.095606 
+Dev error: 0.092469 
+Epoch 22 loss: 0.823561 
+Train error: 0.095551 
+Dev error: 0.091656 
+Epoch 23 loss: 0.822593 
+Train error: 0.095496 
+Dev error: 0.091530 
+Epoch 24 loss: 0.821084 
+Train error: 0.095440 
+Dev error: 0.094239 
+Epoch 25 loss: 0.823684 
+Train error: 0.095397 
+Dev error: 0.093100 
+Epoch 26 loss: 0.820987 
+Train error: 0.095348 
+Dev error: 0.092983 
+Epoch 27 loss: 0.823190 
+Train error: 0.095310 
+Dev error: 0.092086 
+Epoch 28 loss: 0.821118 
+Train error: 0.095268 
+Dev error: 0.092501 
+Epoch 29 loss: 0.820454 
+Train error: 0.095226 
+Dev error: 0.094409 
+Epoch 30 loss: 0.820644 
+Train error: 0.095188 
+Dev error: 0.092433 
+Epoch 31 loss: 0.819902 
+Train error: 0.095150 
+Dev error: 0.092134 
+Epoch 32 loss: 0.821516 
+Train error: 0.095120 
+Dev error: 0.092027 
+Epoch 33 loss: 0.820758 
+Train error: 0.095088 
+Dev error: 0.092172 
+Epoch 34 loss: 0.819281 
+Train error: 0.095054 
+Dev error: 0.092378 
+Epoch 35 loss: 0.819623 
+Train error: 0.095024 
+Dev error: 0.091784 
+Epoch 36 loss: 0.819031 
+Train error: 0.094993 
+Dev error: 0.092182 
+Epoch 37 loss: 0.820097 
+Train error: 0.094967 
+Dev error: 0.092163 
+Epoch 38 loss: 0.819141 
+Train error: 0.094939 
+Dev error: 0.092996 
+Epoch 39 loss: 0.822057 
+Train error: 0.094921 
+Dev error: 0.093157 
+Epoch 40 loss: 0.819023 
+Train error: 0.094897 
+Dev error: 0.093119 
+Epoch 41 loss: 0.818470 
+Train error: 0.094872 
+Dev error: 0.092345 
+Epoch 42 loss: 0.819101 
+Train error: 0.094849 
+Dev error: 0.091873 
+Epoch 43 loss: 0.818833 
+Train error: 0.094827 
+Dev error: 0.092214 
+Epoch 44 loss: 0.818155 
+Train error: 0.094804 
+Dev error: 0.092362 
+Epoch 45 loss: 0.818178 
+Train error: 0.094783 
+Dev error: 0.093413 
+Epoch 46 loss: 0.817770 
+Train error: 0.094761 
+Dev error: 0.092350 
+Epoch 47 loss: 0.817608 
+Train error: 0.094740 
+Dev error: 0.092543 
+Epoch 48 loss: 0.817942 
+Train error: 0.094720 
+Dev error: 0.093827 
+Epoch 49 loss: 0.817974 
+Train error: 0.094701 
+Dev error: 0.092861 
+Epoch 50 loss: 0.816802 
+Train error: 0.094681 
+Dev error: 0.092271 
+Epoch 51 loss: 0.818115 
+Train error: 0.094664 
+Dev error: 0.093550 
+Epoch 52 loss: 0.817006 
+Train error: 0.094646 
+Dev error: 0.091842 
+Epoch 53 loss: 0.816025 
+Train error: 0.094626 
+Dev error: 0.091637 
+Epoch 54 loss: 0.816139 
+Train error: 0.094607 
+Dev error: 0.095310 
+Epoch 55 loss: 0.816487 
+Train error: 0.094590 
+Dev error: 0.092053 
+Epoch 56 loss: 0.816511 
+Train error: 0.094573 
+Dev error: 0.091730 
+Epoch 57 loss: 0.816515 
+Train error: 0.094557 
+Dev error: 0.092229 
+Epoch 58 loss: 0.815740 
+Train error: 0.094540 
+Dev error: 0.091867 
+Epoch 59 loss: 0.816385 
+Train error: 0.094525 
+Dev error: 0.091785 
+Epoch 60 loss: 0.815194 
+Train error: 0.094508 
+Dev error: 0.092132 
+Epoch 61 loss: 0.815474 
+Train error: 0.094492 
+Dev error: 0.092462 
+Epoch 62 loss: 0.817042 
+Train error: 0.094480 
+Dev error: 0.092209 
+Epoch 63 loss: 0.816427 
+Train error: 0.094467 
+Dev error: 0.092944 
+Epoch 64 loss: 0.816522 
+Train error: 0.094454 
+Dev error: 0.091872 
+Epoch 65 loss: 0.814627 
+Train error: 0.094439 
+Dev error: 0.091976 
+Epoch 66 loss: 0.813765 
+Train error: 0.094423 
+Dev error: 0.091772 
+Epoch 67 loss: 0.814724 
+Train error: 0.094408 
+Dev error: 0.091563 
+Epoch 68 loss: 0.814150 
+Train error: 0.094393 
+Dev error: 0.091659 
+Epoch 69 loss: 0.814836 
+Train error: 0.094380 
+Dev error: 0.091477 
+Epoch 70 loss: 0.814715 
+Train error: 0.094367 
+Dev error: 0.091718 
+Epoch 71 loss: 0.815048 
+Train error: 0.094355 
+Dev error: 0.092786 
+Epoch 72 loss: 0.813377 
+Train error: 0.094340 
+Dev error: 0.092323 
+Epoch 73 loss: 0.815006 
+Train error: 0.094329 
+Dev error: 0.092100 
+Epoch 74 loss: 0.815219 
+Train error: 0.094318 
+Dev error: 0.092153 
+Epoch 75 loss: 0.815829 
+Train error: 0.094308 
+Dev error: 0.091703 
+Epoch 76 loss: 0.813418 
+Train error: 0.094295 
+Dev error: 0.091914 
+Epoch 77 loss: 0.814283 
+Train error: 0.094284 
+Dev error: 0.091663 
+Epoch 78 loss: 0.814260 
+Train error: 0.094273 
+Dev error: 0.092419 
+Epoch 79 loss: 0.814195 
+Train error: 0.094262 
+Dev error: 0.092016 
+Epoch 80 loss: 0.814616 
+Train error: 0.094252 
+Dev error: 0.091684 
+Epoch 81 loss: 0.814013 
+Train error: 0.094242 
+Dev error: 0.092669 
+Epoch 82 loss: 0.814865 
+Train error: 0.094233 
+Dev error: 0.091735 
+Epoch 83 loss: 0.814692 
+Train error: 0.094224 
+Dev error: 0.092659 
+Epoch 84 loss: 0.814511 
+Train error: 0.094215 
+Dev error: 0.091565 
+Epoch 85 loss: 0.814392 
+Train error: 0.094206 
+Dev error: 0.091641 
+Epoch 86 loss: 0.816666 
+Train error: 0.094199 
+Dev error: 0.092103 
+Epoch 87 loss: 0.813906 
+Train error: 0.094190 
+Dev error: 0.092641 
+Epoch 88 loss: 0.813338 
+Train error: 0.094180 
+Dev error: 0.091971 
+Epoch 89 loss: 0.813464 
+Train error: 0.094171 
+Dev error: 0.091962 
+Epoch 90 loss: 0.813953 
+Train error: 0.094162 
+Dev error: 0.092014 
+Epoch 91 loss: 0.812565 
+Train error: 0.094152 
+Dev error: 0.092106 
+Epoch 92 loss: 0.813104 
+Train error: 0.094143 
+Dev error: 0.092171 
+Epoch 93 loss: 0.813096 
+Train error: 0.094134 
+Dev error: 0.094862 
+Epoch 94 loss: 0.814046 
+Train error: 0.094126 
+Dev error: 0.092407 
+Epoch 95 loss: 0.816513 
+Train error: 0.094121 
+Dev error: 0.093001 
+Epoch 96 loss: 0.814345 
+Train error: 0.094115 
+Dev error: 0.091825 
+Epoch 97 loss: 0.812828 
+Train error: 0.094106 
+Dev error: 0.091754 
+Epoch 98 loss: 0.812966 
+Train error: 0.094098 
+Dev error: 0.091888 
+Epoch 99 loss: 0.812546 
+Train error: 0.094088 
+Dev error: 0.092864 
+Epoch 100 loss: 0.813569 
+Train error: 0.094081 
+Dev error: 0.091942 
+Epoch 101 loss: 0.812733 
+Train error: 0.094073 
+Dev error: 0.091966 
+Epoch 102 loss: 0.814359 
+Train error: 0.094067 
+Dev error: 0.092219 
+Epoch 103 loss: 0.813016 
+Train error: 0.094059 
+Dev error: 0.092073 
+Epoch 104 loss: 0.812916 
+Train error: 0.094052 
+Dev error: 0.092241 
+Epoch 105 loss: 0.812484 
+Train error: 0.094044 
+Dev error: 0.091725 
+Epoch 106 loss: 0.813463 
+Train error: 0.094038 
+Dev error: 0.091475 
+Epoch 107 loss: 0.812552 
+Train error: 0.094031 
+Dev error: 0.091940 
+Epoch 108 loss: 0.813023 
+Train error: 0.094024 
+Dev error: 0.091620 
+Epoch 109 loss: 0.812474 
+Train error: 0.094017 
+Dev error: 0.092095 
+Epoch 110 loss: 0.812554 
+Train error: 0.094010 
+Dev error: 0.092020 
+Epoch 111 loss: 0.813130 
+Train error: 0.094004 
+Dev error: 0.091502 
+Epoch 112 loss: 0.811535 
+Train error: 0.093996 
+Dev error: 0.092192 
+Epoch 113 loss: 0.812486 
+Train error: 0.093990 
+Dev error: 0.091157 
+Epoch 114 loss: 0.812075 
+Train error: 0.093983 
+Dev error: 0.092234 
+Epoch 115 loss: 0.812442 
+Train error: 0.093976 
+Dev error: 0.091582 
+Epoch 116 loss: 0.813920 
+Train error: 0.093972 
+Dev error: 0.091522 
+Epoch 117 loss: 0.811917 
+Train error: 0.093965 
+Dev error: 0.091271 
+Epoch 118 loss: 0.811918 
+Train error: 0.093959 
+Dev error: 0.091436 
+Epoch 119 loss: 0.812300 
+Train error: 0.093952 
+Dev error: 0.091650 
+Epoch 120 loss: 0.812813 
+Train error: 0.093947 
+Dev error: 0.092819 
+Epoch 121 loss: 0.811745 
+Train error: 0.093941 
+Dev error: 0.091956 
+Epoch 122 loss: 0.812102 
+Train error: 0.093935 
+Dev error: 0.091864 
+Epoch 123 loss: 0.812997 
+Train error: 0.093930 
+Dev error: 0.091670 
+Epoch 124 loss: 0.811799 
+Train error: 0.093924 
+Dev error: 0.091341 
+Epoch 125 loss: 0.810980 
+Train error: 0.093917 
+Dev error: 0.091755 
+Epoch 126 loss: 0.812281 
+Train error: 0.093912 
+Dev error: 0.092071 
+Epoch 127 loss: 0.811099 
+Train error: 0.093905 
+Dev error: 0.091725 
+Epoch 128 loss: 0.811199 
+Train error: 0.093899 
+Dev error: 0.091717 
+Epoch 129 loss: 0.811741 
+Train error: 0.093894 
+Dev error: 0.091613 
+Epoch 130 loss: 0.811819 
+Train error: 0.093888 
+Dev error: 0.091671 
+Epoch 131 loss: 0.811190 
+Train error: 0.093882 
+Dev error: 0.091501 
+Epoch 132 loss: 0.810573 
+Train error: 0.093876 
+Dev error: 0.091685 
+Epoch 133 loss: 0.811098 
+Train error: 0.093870 
+Dev error: 0.092747 
+Epoch 134 loss: 0.811378 
+Train error: 0.093864 
+Dev error: 0.091244 
+Epoch 135 loss: 0.810730 
+Train error: 0.093858 
+Dev error: 0.091298 
+Epoch 136 loss: 0.811231 
+Train error: 0.093853 
+Dev error: 0.091228 
+Epoch 137 loss: 0.812465 
+Train error: 0.093848 
+Dev error: 0.092132 
+Epoch 138 loss: 0.812167 
+Train error: 0.093844 
+Dev error: 0.091328 
+Epoch 139 loss: 0.810269 
+Train error: 0.093838 
+Dev error: 0.091665 
+Epoch 140 loss: 0.810456 
+Train error: 0.093832 
+Dev error: 0.091632 
+Epoch 141 loss: 0.810845 
+Train error: 0.093827 
+Dev error: 0.091260 
+Epoch 142 loss: 0.810694 
+Train error: 0.093821 
+Dev error: 0.092311 
+Epoch 143 loss: 0.811036 
+Train error: 0.093816 
+Dev error: 0.092060 
+Epoch 144 loss: 0.811927 
+Train error: 0.093812 
+Dev error: 0.091772 
+Epoch 145 loss: 0.810473 
+Train error: 0.093807 
+Dev error: 0.091541 
+Epoch 146 loss: 0.810908 
+Train error: 0.093802 
+Dev error: 0.091119 
+Epoch 147 loss: 0.812136 
+Train error: 0.093798 
+Dev error: 0.091950 
+Epoch 148 loss: 0.811770 
+Train error: 0.093793 
+Dev error: 0.091806 
+Epoch 149 loss: 0.812020 
+Train error: 0.093790 
+Dev error: 0.092162 
+Epoch 150 loss: 0.812081 
+Train error: 0.093786 
+Dev error: 0.091313 
+Epoch 151 loss: 0.811375 
+Train error: 0.093781 
+Dev error: 0.090878 
+Epoch 152 loss: 0.810261 
+Train error: 0.093776 
+Dev error: 0.090909 
+Epoch 153 loss: 0.810556 
+Train error: 0.093772 
+Dev error: 0.090998 
+Epoch 154 loss: 0.810948 
+Train error: 0.093767 
+Dev error: 0.092169 
+Epoch 155 loss: 0.810715 
+Train error: 0.093762 
+Dev error: 0.091465 
+Epoch 156 loss: 0.810015 
+Train error: 0.093758 
+Dev error: 0.090787 
+Epoch 157 loss: 0.811702 
+Train error: 0.093754 
+Dev error: 0.091405 
+Epoch 158 loss: 0.810311 
+Train error: 0.093749 
+Dev error: 0.091202 
+Epoch 159 loss: 0.810218 
+Train error: 0.093745 
+Dev error: 0.090935 
+Epoch 160 loss: 0.809586 
+Train error: 0.093740 
+Dev error: 0.091640 
+Epoch 161 loss: 0.811257 
+Train error: 0.093736 
+Dev error: 0.091501 
+Epoch 162 loss: 0.810434 
+Train error: 0.093731 
+Dev error: 0.091158 
+Epoch 163 loss: 0.809854 
+Train error: 0.093727 
+Dev error: 0.091631 
+Epoch 164 loss: 0.810475 
+Train error: 0.093723 
+Dev error: 0.091304 
+Epoch 165 loss: 0.809134 
+Train error: 0.093718 
+Dev error: 0.091852 
+Epoch 166 loss: 0.810804 
+Train error: 0.093714 
+Dev error: 0.091515 
+Epoch 167 loss: 0.808875 
+Train error: 0.093708 
+Dev error: 0.091076 
+Epoch 168 loss: 0.809003 
+Train error: 0.093703 
+Dev error: 0.091610 
+Epoch 169 loss: 0.809649 
+Train error: 0.093699 
+Dev error: 0.090732 
+Epoch 170 loss: 0.809073 
+Train error: 0.093694 
+Dev error: 0.091408 
+Epoch 171 loss: 0.811470 
+Train error: 0.093691 
+Dev error: 0.090981 
+Epoch 172 loss: 0.809957 
+Train error: 0.093687 
+Dev error: 0.090832 
+Epoch 173 loss: 0.810490 
+Train error: 0.093683 
+Dev error: 0.090992 
+Epoch 174 loss: 0.810291 
+Train error: 0.093679 
+Dev error: 0.090995 
+Epoch 175 loss: 0.808960 
+Train error: 0.093675 
+Dev error: 0.090949 
+Epoch 176 loss: 0.811294 
+Train error: 0.093671 
+Dev error: 0.091658 
+Epoch 177 loss: 0.811217 
+Train error: 0.093668 
+Dev error: 0.092052 

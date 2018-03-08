@@ -1,0 +1,756 @@
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 2 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 2 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 2 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.300442 
+Train error: 0.127522 
+Dev error: 0.100364 
+Epoch 1 loss: 1.139804 
+Train error: 0.113875 
+Dev error: 0.096870 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.305889 
+Train error: 0.128082 
+Dev error: 0.097752 
+Epoch 1 loss: 1.140701 
+Train error: 0.114191 
+Dev error: 0.101952 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 10, hidden units = 64, epochs = 1 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 6.489221 
+Train error: 0.302306 
+Dev error: 0.148835 
+Epoch 1 loss: 1.502022 
+Train error: 0.212597 
+Dev error: 0.107871 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 10, hidden units = 64, epochs = 5 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 6.486400 
+Train error: 0.302555 
+Dev error: 0.154355 
+Epoch 5 loss: 1.073967 
+Train error: 0.142110 
+Dev error: 0.102984 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 5 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.292302 
+Train error: 0.119917 
+Dev error: 0.101136 
+Epoch 5 loss: 0.894513 
+Train error: 0.103332 
+Dev error: 0.099772 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 10 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.292302 
+Train error: 0.119917 
+Dev error: 0.101136 
+Epoch 10 loss: 0.871842 
+Train error: 0.100883 
+Dev error: 0.093859 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 2, hidden units = 128, epochs = 20 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.292303 
+Train error: 0.119917 
+Dev error: 0.101136 
+Epoch 20 loss: 0.865189 
+Train error: 0.099085 
+Dev error: 0.096056 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 3, hidden units = 128, epochs = 30 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 3.784386 
+Train error: 0.228377 
+Dev error: 0.096896 
+Epoch 6 loss: 0.907424 
+Train error: 0.118346 
+Dev error: 0.098412 
+Epoch 12 loss: 0.886865 
+Train error: 0.108962 
+Dev error: 0.097722 
+Epoch 18 loss: 0.884008 
+Train error: 0.105574 
+Dev error: 0.095268 
+Epoch 24 loss: 0.871571 
+Train error: 0.103677 
+Dev error: 0.094805 
+Epoch 30 loss: 3.029396 
+Train error: 0.128077 
+Dev error: 0.354275 
+START OF NEW MODEL
+learning rate = 0.500000, hidden layers = 3, hidden units = 128, epochs = 50 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 292583.096265 
+Train error: 34307.690896 
+Dev error: 4.822205 
+Epoch 5 loss: 546.977201 
+Train error: 5719.243898 
+Dev error: 0.396335 
+Epoch 10 loss: 198.900921 
+Train error: 3119.730728 
+Dev error: 0.195521 
+Epoch 15 loss: 86.781960 
+Train error: 2144.864542 
+Dev error: 0.121535 
+Epoch 20 loss: 26.364722 
+Train error: 1634.210233 
+Dev error: 0.111717 
+START OF NEW MODEL
+learning rate = 0.050000, hidden layers = 3, hidden units = 128, epochs = 50 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 3.792896 
+Train error: 0.229403 
+Dev error: 0.098461 
+Epoch 5 loss: 0.912452 
+Train error: 0.121799 
+Dev error: 0.099186 
+Epoch 10 loss: 0.895367 
+Train error: 0.111117 
+Dev error: 0.096423 
+Epoch 15 loss: 0.887148 
+Train error: 0.106953 
+Dev error: 0.094443 
+Epoch 20 loss: 0.876250 
+Train error: 0.104788 
+Dev error: 0.095459 
+Epoch 25 loss: 0.871222 
+Train error: 0.103353 
+Dev error: 0.093414 
+Epoch 30 loss: 0.870615 
+Train error: 0.102385 
+Dev error: 0.096280 
+Epoch 35 loss: 3.067859 
+Train error: 0.115981 
+Dev error: 0.352686 
+Epoch 40 loss: 3.040184 
+Train error: 0.144450 
+Dev error: 0.353694 
+Epoch 45 loss: 3.028428 
+Train error: 0.166733 
+Dev error: 0.350765 
+Epoch 50 loss: 3.027397 
+Train error: 0.184650 
+Dev error: 0.352698 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 3, hidden units = 128, epochs = 500 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.650497 
+Train error: 0.131548 
+Dev error: 0.094665 
+Epoch 50 loss: 0.856021 
+Train error: 0.097253 
+Dev error: 0.093874 
+Epoch 100 loss: 0.844961 
+Train error: 0.096514 
+Dev error: 0.092761 
+Epoch 150 loss: 0.843543 
+Train error: 0.096212 
+Dev error: 0.093718 
+Epoch 200 loss: 0.842331 
+Train error: 0.096036 
+Dev error: 0.092680 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 3, hidden units = 128, epochs = 500 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.650497 
+Train error: 0.131548 
+Dev error: 0.094665 
+Epoch 50 loss: 0.855634 
+Train error: 0.097240 
+Dev error: 0.094059 
+Epoch 100 loss: 0.845865 
+Train error: 0.096513 
+Dev error: 0.092708 
+Epoch 150 loss: 0.843632 
+Train error: 0.096212 
+Dev error: 0.093477 
+Epoch 200 loss: 0.841348 
+Train error: 0.096035 
+Dev error: 0.092896 
+Epoch 250 loss: 0.839425 
+Train error: 0.095923 
+Dev error: 0.093171 
+Epoch 300 loss: 0.841680 
+Train error: 0.095845 
+Dev error: 0.092373 
+Epoch 350 loss: 0.838829 
+Train error: 0.095786 
+Dev error: 0.092870 
+Epoch 400 loss: 0.837013 
+Train error: 0.095739 
+Dev error: 0.094207 
+Epoch 450 loss: 0.839695 
+Train error: 0.095704 
+Dev error: 0.092424 
+Epoch 500 loss: 0.836109 
+Train error: 0.095669 
+Dev error: 0.092871 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 5, hidden units = 30, epochs = 10 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 4.793760 
+Train error: 0.432682 
+Dev error: 0.138170 
+Epoch 1 loss: 1.336416 
+Train error: 0.266857 
+Dev error: 0.096045 
+Epoch 2 loss: 1.125216 
+Train error: 0.209752 
+Dev error: 0.093835 
+Epoch 3 loss: 1.029645 
+Train error: 0.180849 
+Dev error: 0.094485 
+Epoch 4 loss: 0.987565 
+Train error: 0.163669 
+Dev error: 0.094489 
+Epoch 5 loss: 0.975717 
+Train error: 0.152565 
+Dev error: 0.097743 
+Epoch 6 loss: 0.939106 
+Train error: 0.144324 
+Dev error: 0.093323 
+Epoch 7 loss: 0.914315 
+Train error: 0.138007 
+Dev error: 0.093631 
+Epoch 8 loss: 0.904543 
+Train error: 0.133105 
+Dev error: 0.097340 
+Epoch 9 loss: 0.909979 
+Train error: 0.129300 
+Dev error: 0.095760 
+Epoch 10 loss: 0.905758 
+Train error: 0.126207 
+Dev error: 0.095641 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 5, hidden units = 30, epochs = 50 
+L2 beta = 0.030000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 4.793760 
+Train error: 0.432682 
+Dev error: 0.138170 
+Epoch 5 loss: 0.975837 
+Train error: 0.152480 
+Dev error: 0.095562 
+Epoch 10 loss: 0.907570 
+Train error: 0.126573 
+Dev error: 0.094764 
+Epoch 15 loss: 0.890473 
+Train error: 0.116548 
+Dev error: 0.093941 
+Epoch 20 loss: 0.879405 
+Train error: 0.111234 
+Dev error: 0.093799 
+Epoch 25 loss: 0.872007 
+Train error: 0.108115 
+Dev error: 0.093370 
+Epoch 30 loss: 0.870495 
+Train error: 0.105972 
+Dev error: 0.095102 
+Epoch 35 loss: 0.860562 
+Train error: 0.104230 
+Dev error: 0.092575 
+Epoch 40 loss: 0.871853 
+Train error: 0.103025 
+Dev error: 0.092930 
+Epoch 45 loss: 0.854884 
+Train error: 0.102044 
+Dev error: 0.097116 
+Epoch 50 loss: 0.857383 
+Train error: 0.101241 
+Dev error: 0.092844 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 5, hidden units = 30, epochs = 50 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 3.292510 
+Train error: 0.384571 
+Dev error: 0.121496 
+Epoch 5 loss: 0.770265 
+Train error: 0.144223 
+Dev error: 0.093603 
+Epoch 10 loss: 0.774573 
+Train error: 0.121321 
+Dev error: 0.092796 
+Epoch 15 loss: 0.767965 
+Train error: 0.112322 
+Dev error: 0.093106 
+Epoch 20 loss: 0.763802 
+Train error: 0.107644 
+Dev error: 0.092048 
+Epoch 25 loss: 0.770905 
+Train error: 0.104766 
+Dev error: 0.092171 
+Epoch 30 loss: 0.764664 
+Train error: 0.102748 
+Dev error: 0.092234 
+Epoch 35 loss: 0.755636 
+Train error: 0.101161 
+Dev error: 0.091121 
+Epoch 40 loss: 0.763635 
+Train error: 0.100002 
+Dev error: 0.091027 
+Epoch 45 loss: 0.756667 
+Train error: 0.099020 
+Dev error: 0.094366 
+Epoch 50 loss: 0.753397 
+Train error: 0.098230 
+Dev error: 0.090650 
+START OF NEW MODEL
+learning rate = 0.000500, hidden layers = 5, hidden units = 64, epochs = 50 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 4.443173 
+Train error: 0.532138 
+Dev error: 0.389659 
+Epoch 5 loss: 0.819662 
+Train error: 0.223824 
+Dev error: 0.100392 
+Epoch 10 loss: 0.779722 
+Train error: 0.166096 
+Dev error: 0.095221 
+Epoch 15 loss: 0.768696 
+Train error: 0.143558 
+Dev error: 0.093441 
+Epoch 20 loss: 0.766366 
+Train error: 0.131479 
+Dev error: 0.093102 
+Epoch 25 loss: 0.760162 
+Train error: 0.123929 
+Dev error: 0.092031 
+Epoch 30 loss: 0.751509 
+Train error: 0.118701 
+Dev error: 0.092407 
+Epoch 35 loss: 0.757266 
+Train error: 0.114876 
+Dev error: 0.092414 
+Epoch 40 loss: 0.749973 
+Train error: 0.111984 
+Dev error: 0.090644 
+Epoch 45 loss: 0.749326 
+Train error: 0.109653 
+Dev error: 0.091985 
+Epoch 50 loss: 0.745415 
+Train error: 0.107796 
+Dev error: 0.090250 
+START OF NEW MODEL
+learning rate = 0.000500, hidden layers = 1, hidden units = 64, epochs = 50 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000500, hidden layers = 2, hidden units = 64, epochs = 50 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 5.418617 
+Train error: 0.649653 
+Dev error: 0.495496 
+Epoch 5 loss: 2.831879 
+Train error: 0.449396 
+Dev error: 0.342787 
+Epoch 10 loss: 2.389592 
+Train error: 0.387663 
+Dev error: 0.283479 
+Epoch 15 loss: 1.544916 
+Train error: 0.339034 
+Dev error: 0.173751 
+Epoch 20 loss: 0.859438 
+Train error: 0.288900 
+Dev error: 0.101108 
+Epoch 25 loss: 0.779118 
+Train error: 0.251888 
+Dev error: 0.094719 
+Epoch 30 loss: 0.768790 
+Train error: 0.226446 
+Dev error: 0.094138 
+Epoch 35 loss: 0.764290 
+Train error: 0.207918 
+Dev error: 0.093502 
+Epoch 40 loss: 0.762071 
+Train error: 0.193855 
+Dev error: 0.092728 
+Epoch 45 loss: 0.760045 
+Train error: 0.182833 
+Dev error: 0.092890 
+Epoch 50 loss: 0.756319 
+Train error: 0.173967 
+Dev error: 0.092450 
+START OF NEW MODEL
+learning rate = 0.000500, hidden layers = 10, hidden units = 64, epochs = 50 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 4.410300 
+Train error: 0.525857 
+Dev error: 0.308700 
+Epoch 5 loss: 0.811691 
+Train error: 0.190563 
+Dev error: 0.098957 
+Epoch 10 loss: 0.773187 
+Train error: 0.147323 
+Dev error: 0.094048 
+Epoch 15 loss: 0.765722 
+Train error: 0.130517 
+Dev error: 0.093275 
+Epoch 20 loss: 0.753906 
+Train error: 0.121355 
+Dev error: 0.090950 
+Epoch 25 loss: 0.765834 
+Train error: 0.115621 
+Dev error: 0.091363 
+Epoch 30 loss: 0.749868 
+Train error: 0.111716 
+Dev error: 0.089675 
+Epoch 35 loss: 0.741872 
+Train error: 0.108752 
+Dev error: 0.088820 
+Epoch 40 loss: 0.745906 
+Train error: 0.106437 
+Dev error: 0.088354 
+Epoch 45 loss: 0.736197 
+Train error: 0.104597 
+Dev error: 0.091719 
+Epoch 50 loss: 0.738164 
+Train error: 0.103025 
+Dev error: 0.087894 
+START OF NEW MODEL
+learning rate = 0.000500, hidden layers = 10, hidden units = 128, epochs = 5000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 1.050187 
+Train error: 0.119177 
+Dev error: 0.097058 
+START OF NEW MODEL
+learning rate = 0.000500, hidden layers = 10, hidden units = 64, epochs = 50 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 4.296252 
+Train error: 0.511825 
+Dev error: 0.236257 
+Epoch 5 loss: 0.781670 
+Train error: 0.181474 
+Dev error: 0.095071 
+Epoch 10 loss: 0.761978 
+Train error: 0.141402 
+Dev error: 0.090874 
+Epoch 15 loss: 0.750127 
+Train error: 0.125815 
+Dev error: 0.088706 
+Epoch 20 loss: 0.739277 
+Train error: 0.117280 
+Dev error: 0.087787 
+Epoch 25 loss: 0.726355 
+Train error: 0.111744 
+Dev error: 0.087222 
+Epoch 30 loss: 0.721889 
+Train error: 0.107828 
+Dev error: 0.087132 
+Epoch 35 loss: 0.712053 
+Train error: 0.104851 
+Dev error: 0.084577 
+Epoch 40 loss: 0.704639 
+Train error: 0.102443 
+Dev error: 0.084071 
+Epoch 45 loss: 0.692239 
+Train error: 0.100485 
+Dev error: 0.083990 
+Epoch 50 loss: 0.691962 
+Train error: 0.098856 
+Dev error: 0.082037 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.392586 
+Train error: 0.273098 
+Dev error: 0.102792 
+Epoch 10 loss: 0.784054 
+Train error: 0.112978 
+Dev error: 0.093239 
+Epoch 20 loss: 0.756950 
+Train error: 0.103383 
+Dev error: 0.089991 
+Epoch 30 loss: 0.753853 
+Train error: 0.099323 
+Dev error: 0.088602 
+Epoch 40 loss: 0.736445 
+Train error: 0.096796 
+Dev error: 0.088946 
+Epoch 50 loss: 0.709153 
+Train error: 0.094798 
+Dev error: 0.081369 
+Epoch 60 loss: 0.707746 
+Train error: 0.093127 
+Dev error: 0.080668 
+Epoch 70 loss: 0.677017 
+Train error: 0.091566 
+Dev error: 0.077594 
+Epoch 80 loss: 0.663135 
+Train error: 0.090069 
+Dev error: 0.077599 
+Epoch 90 loss: 0.658286 
+Train error: 0.088794 
+Dev error: 0.078018 
+Epoch 100 loss: 0.627301 
+Train error: 0.087574 
+Dev error: 0.072684 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.489834 
+Train error: 0.288130 
+Dev error: 0.117068 
+Epoch 10 loss: 0.790973 
+Train error: 0.115358 
+Dev error: 0.092805 
+Epoch 20 loss: 0.764234 
+Train error: 0.104809 
+Dev error: 0.091333 
+Epoch 30 loss: 0.764778 
+Train error: 0.100336 
+Dev error: 0.091203 
+Epoch 40 loss: 0.741848 
+Train error: 0.097575 
+Dev error: 0.084840 
+Epoch 50 loss: 0.708311 
+Train error: 0.095323 
+Dev error: 0.084485 
+Epoch 60 loss: 0.713282 
+Train error: 0.093483 
+Dev error: 0.079999 
+Epoch 70 loss: 0.683869 
+Train error: 0.091840 
+Dev error: 0.078053 
+Epoch 80 loss: 0.672521 
+Train error: 0.090479 
+Dev error: 0.076552 
+Epoch 90 loss: 0.653500 
+Train error: 0.089178 
+Dev error: 0.074381 
+Epoch 100 loss: 0.642179 
+Train error: 0.087997 
+Dev error: 0.073462 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 200 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.489834 
+Train error: 0.288130 
+Dev error: 0.117068 
+Epoch 20 loss: 0.758685 
+Train error: 0.105086 
+Dev error: 0.091170 
+Epoch 40 loss: 0.726766 
+Train error: 0.097677 
+Dev error: 0.085763 
+Epoch 60 loss: 0.711744 
+Train error: 0.093629 
+Dev error: 0.082266 
+Epoch 80 loss: 0.655766 
+Train error: 0.090581 
+Dev error: 0.077256 
+Epoch 100 loss: 0.647309 
+Train error: 0.088101 
+Dev error: 0.075786 
+Epoch 120 loss: 0.619065 
+Train error: 0.085921 
+Dev error: 0.070351 
+Epoch 140 loss: 0.608514 
+Train error: 0.084105 
+Dev error: 0.067719 
+Epoch 160 loss: 0.596675 
+Train error: 0.082502 
+Dev error: 0.067459 
+Epoch 180 loss: 0.588282 
+Train error: 0.081128 
+Dev error: 0.066015 
+Epoch 200 loss: 0.571024 
+Train error: 0.079873 
+Dev error: 0.064327 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 500 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.489834 
+Train error: 0.288130 
+Dev error: 0.117068 
+Epoch 50 loss: 0.720473 
+Train error: 0.095422 
+Dev error: 0.084376 
+Epoch 100 loss: 0.654036 
+Train error: 0.088383 
+Dev error: 0.074395 
+Epoch 150 loss: 0.604253 
+Train error: 0.083610 
+Dev error: 0.069563 
+Epoch 200 loss: 0.575826 
+Train error: 0.080199 
+Dev error: 0.064927 
+Epoch 250 loss: 0.559420 
+Train error: 0.077638 
+Dev error: 0.063050 
+Epoch 300 loss: 0.542620 
+Train error: 0.075596 
+Dev error: 0.062262 
+Epoch 350 loss: 0.532997 
+Train error: 0.073897 
+Dev error: 0.059642 
+Epoch 400 loss: 0.525811 
+Train error: 0.072487 
+Dev error: 0.060320 
+Epoch 450 loss: 0.513317 
+Train error: 0.071322 
+Dev error: 0.058230 
+Epoch 500 loss: 0.503333 
+Train error: 0.070286 
+Dev error: 0.056536 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.489834 
+Train error: 0.288130 
+Dev error: 0.117068 
+Epoch 100 loss: 0.649381 
+Train error: 0.088165 
+Dev error: 0.080432 
+Epoch 200 loss: 0.585212 
+Train error: 0.080185 
+Dev error: 0.064475 
+Epoch 300 loss: 0.547826 
+Train error: 0.075733 
+Dev error: 0.061438 
+Epoch 400 loss: 0.521736 
+Train error: 0.072714 
+Dev error: 0.058454 
+Epoch 500 loss: 0.513539 
+Train error: 0.070456 
+Dev error: 0.057891 
+Epoch 600 loss: 0.493644 
+Train error: 0.068636 
+Dev error: 0.054962 
+Epoch 700 loss: 0.510332 
+Train error: 0.067179 
+Dev error: 0.057551 
+Epoch 800 loss: 0.478104 
+Train error: 0.065941 
+Dev error: 0.053201 
+Epoch 900 loss: 0.474241 
+Train error: 0.064840 
+Dev error: 0.054068 
+Epoch 1000 loss: 0.469281 
+Train error: 0.063905 
+Dev error: 0.052776 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 100 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000500, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.005000, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+Epoch 0 loss: 2.489834 
+Train error: 0.288130 
+Dev error: 0.123837 
+Epoch 100 loss: 0.649004 
+Train error: 0.088333 
+Dev error: 0.078529 
+Epoch 200 loss: 0.598641 
+Train error: 0.080547 
+Dev error: 0.067309 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 1000 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 
+START OF NEW MODEL
+learning rate = 0.000050, hidden layers = 10, hidden units = 64, epochs = 10 
+L2 beta = 0.000000, Dropout Keep Prob = 1.000000 

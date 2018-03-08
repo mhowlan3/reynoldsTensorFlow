@@ -1,0 +1,9 @@
+Epoch 0 loss: 0.324236 
+Train error: 0.039488 
+Dev error: 0.036691 
+Epoch 10 loss: 0.324268 
+Train error: 0.039484 
+Dev error: 0.036728 
+Epoch 20 loss: 0.324147 
+Train error: 0.039480 
+Dev error: 0.036692 
